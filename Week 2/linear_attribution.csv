@@ -1,0 +1,3550 @@
+user_id,channel,revenue,total_touches,attribution_credit
+U1000,Facebook,412.0,5,82.4
+U1000,Google Ads,412.0,5,82.4
+U1000,LinkedIn,412.0,5,82.4
+U1000,Facebook,412.0,5,82.4
+U1000,LinkedIn,412.0,5,82.4
+U1001,Google Ads,,3,
+U1001,Google Ads,,3,
+U1001,Google Ads,,3,
+U1002,LinkedIn,746.0,3,248.66666666666666
+U1002,Google Ads,746.0,3,248.66666666666666
+U1002,Google Ads,746.0,3,248.66666666666666
+U1003,Facebook,850.0,5,170.0
+U1003,Facebook,850.0,5,170.0
+U1003,LinkedIn,850.0,5,170.0
+U1003,Facebook,850.0,5,170.0
+U1003,LinkedIn,850.0,5,170.0
+U1004,LinkedIn,,4,
+U1004,Facebook,,4,
+U1004,Facebook,,4,
+U1004,Facebook,,4,
+U1005,LinkedIn,222.0,4,55.5
+U1005,Google Ads,222.0,4,55.5
+U1005,LinkedIn,222.0,4,55.5
+U1005,Google Ads,222.0,4,55.5
+U1006,Google Ads,,2,
+U1006,Google Ads,,2,
+U1007,LinkedIn,,4,
+U1007,LinkedIn,,4,
+U1007,Facebook,,4,
+U1007,LinkedIn,,4,
+U1008,Facebook,,2,
+U1008,Google Ads,,2,
+U1009,Facebook,,3,
+U1009,Facebook,,3,
+U1009,Google Ads,,3,
+U1010,Facebook,,3,
+U1010,Google Ads,,3,
+U1010,Google Ads,,3,
+U1011,Facebook,,4,
+U1011,Facebook,,4,
+U1011,LinkedIn,,4,
+U1011,LinkedIn,,4,
+U1012,Facebook,,4,
+U1012,TikTok,,4,
+U1012,Facebook,,4,
+U1012,Facebook,,4,
+U1013,TikTok,115.0,5,23.0
+U1013,Google Ads,115.0,5,23.0
+U1013,Facebook,115.0,5,23.0
+U1013,TikTok,115.0,5,23.0
+U1013,Facebook,115.0,5,23.0
+U1014,LinkedIn,,4,
+U1014,Google Ads,,4,
+U1014,LinkedIn,,4,
+U1014,LinkedIn,,4,
+U1015,LinkedIn,,4,
+U1015,LinkedIn,,4,
+U1015,TikTok,,4,
+U1015,TikTok,,4,
+U1016,Facebook,,3,
+U1016,TikTok,,3,
+U1016,TikTok,,3,
+U1017,LinkedIn,,3,
+U1017,Google Ads,,3,
+U1017,TikTok,,3,
+U1018,LinkedIn,,4,
+U1018,Facebook,,4,
+U1018,Facebook,,4,
+U1018,Google Ads,,4,
+U1019,LinkedIn,732.0,2,366.0
+U1019,LinkedIn,732.0,2,366.0
+U1020,TikTok,,3,
+U1020,TikTok,,3,
+U1020,TikTok,,3,
+U1021,TikTok,,5,
+U1021,LinkedIn,,5,
+U1021,Facebook,,5,
+U1021,LinkedIn,,5,
+U1021,Google Ads,,5,
+U1022,TikTok,,5,
+U1022,Google Ads,,5,
+U1022,Google Ads,,5,
+U1022,LinkedIn,,5,
+U1022,TikTok,,5,
+U1023,LinkedIn,,3,
+U1023,Facebook,,3,
+U1023,Google Ads,,3,
+U1024,Facebook,639.0,5,127.8
+U1024,LinkedIn,639.0,5,127.8
+U1024,Facebook,639.0,5,127.8
+U1024,Facebook,639.0,5,127.8
+U1024,TikTok,639.0,5,127.8
+U1025,Google Ads,,5,
+U1025,TikTok,,5,
+U1025,LinkedIn,,5,
+U1025,TikTok,,5,
+U1025,LinkedIn,,5,
+U1026,LinkedIn,,3,
+U1026,LinkedIn,,3,
+U1026,TikTok,,3,
+U1027,LinkedIn,,2,
+U1027,TikTok,,2,
+U1028,LinkedIn,,2,
+U1028,Facebook,,2,
+U1029,LinkedIn,,2,
+U1029,Google Ads,,2,
+U1030,Facebook,,2,
+U1030,Google Ads,,2,
+U1031,Google Ads,,5,
+U1031,TikTok,,5,
+U1031,Facebook,,5,
+U1031,LinkedIn,,5,
+U1031,TikTok,,5,
+U1032,Google Ads,,5,
+U1032,LinkedIn,,5,
+U1032,TikTok,,5,
+U1032,LinkedIn,,5,
+U1032,Google Ads,,5,
+U1033,LinkedIn,,2,
+U1033,LinkedIn,,2,
+U1034,TikTok,,4,
+U1034,Google Ads,,4,
+U1034,Facebook,,4,
+U1034,Facebook,,4,
+U1035,LinkedIn,,3,
+U1035,TikTok,,3,
+U1035,LinkedIn,,3,
+U1036,TikTok,,3,
+U1036,Google Ads,,3,
+U1036,LinkedIn,,3,
+U1037,Facebook,161.0,4,40.25
+U1037,LinkedIn,161.0,4,40.25
+U1037,Facebook,161.0,4,40.25
+U1037,TikTok,161.0,4,40.25
+U1038,TikTok,671.0,5,134.2
+U1038,LinkedIn,671.0,5,134.2
+U1038,LinkedIn,671.0,5,134.2
+U1038,LinkedIn,671.0,5,134.2
+U1038,Google Ads,671.0,5,134.2
+U1039,Google Ads,140.0,3,46.666666666666664
+U1039,Facebook,140.0,3,46.666666666666664
+U1039,TikTok,140.0,3,46.666666666666664
+U1040,Facebook,,3,
+U1040,TikTok,,3,
+U1040,TikTok,,3,
+U1041,Google Ads,,5,
+U1041,Google Ads,,5,
+U1041,TikTok,,5,
+U1041,Facebook,,5,
+U1041,Facebook,,5,
+U1042,Facebook,,2,
+U1042,LinkedIn,,2,
+U1043,Google Ads,,2,
+U1043,Facebook,,2,
+U1044,Google Ads,,4,
+U1044,Facebook,,4,
+U1044,TikTok,,4,
+U1044,LinkedIn,,4,
+U1045,Google Ads,,3,
+U1045,TikTok,,3,
+U1045,TikTok,,3,
+U1046,Facebook,,4,
+U1046,Facebook,,4,
+U1046,TikTok,,4,
+U1046,Google Ads,,4,
+U1047,Google Ads,,3,
+U1047,Google Ads,,3,
+U1047,LinkedIn,,3,
+U1048,LinkedIn,427.0,5,85.4
+U1048,TikTok,427.0,5,85.4
+U1048,Google Ads,427.0,5,85.4
+U1048,LinkedIn,427.0,5,85.4
+U1048,Facebook,427.0,5,85.4
+U1049,Google Ads,,4,
+U1049,TikTok,,4,
+U1049,TikTok,,4,
+U1049,Facebook,,4,
+U1050,Facebook,194.0,3,64.66666666666667
+U1050,LinkedIn,194.0,3,64.66666666666667
+U1050,LinkedIn,194.0,3,64.66666666666667
+U1051,LinkedIn,,4,
+U1051,Google Ads,,4,
+U1051,TikTok,,4,
+U1051,Google Ads,,4,
+U1052,LinkedIn,,4,
+U1052,Google Ads,,4,
+U1052,Google Ads,,4,
+U1052,Facebook,,4,
+U1053,LinkedIn,755.0,3,251.66666666666666
+U1053,Facebook,755.0,3,251.66666666666666
+U1053,Facebook,755.0,3,251.66666666666666
+U1054,Google Ads,,2,
+U1054,TikTok,,2,
+U1055,Google Ads,567.0,4,141.75
+U1055,TikTok,567.0,4,141.75
+U1055,Facebook,567.0,4,141.75
+U1055,Google Ads,567.0,4,141.75
+U1056,Google Ads,,4,
+U1056,Google Ads,,4,
+U1056,LinkedIn,,4,
+U1056,Google Ads,,4,
+U1057,TikTok,,6,
+U1057,Facebook,,6,
+U1057,Facebook,,6,
+U1057,Google Ads,,6,
+U1057,Google Ads,,6,
+U1057,Facebook,,6,
+U1058,Facebook,,4,
+U1058,LinkedIn,,4,
+U1058,Google Ads,,4,
+U1058,Facebook,,4,
+U1059,TikTok,703.0,2,351.5
+U1059,Google Ads,703.0,2,351.5
+U1060,Facebook,,4,
+U1060,TikTok,,4,
+U1060,LinkedIn,,4,
+U1060,Facebook,,4,
+U1061,Facebook,,3,
+U1061,TikTok,,3,
+U1061,Facebook,,3,
+U1062,LinkedIn,,4,
+U1062,TikTok,,4,
+U1062,LinkedIn,,4,
+U1062,Google Ads,,4,
+U1063,Google Ads,,2,
+U1063,LinkedIn,,2,
+U1064,Facebook,,2,
+U1064,Facebook,,2,
+U1065,LinkedIn,,3,
+U1065,Google Ads,,3,
+U1065,TikTok,,3,
+U1066,TikTok,,2,
+U1066,TikTok,,2,
+U1067,LinkedIn,960.0,3,320.0
+U1067,Facebook,960.0,3,320.0
+U1067,Google Ads,960.0,3,320.0
+U1068,LinkedIn,,5,
+U1068,Facebook,,5,
+U1068,TikTok,,5,
+U1068,Facebook,,5,
+U1068,TikTok,,5,
+U1069,LinkedIn,,2,
+U1069,Facebook,,2,
+U1070,Facebook,,3,
+U1070,LinkedIn,,3,
+U1070,LinkedIn,,3,
+U1071,Facebook,472.0,4,118.0
+U1071,LinkedIn,472.0,4,118.0
+U1071,TikTok,472.0,4,118.0
+U1071,Google Ads,472.0,4,118.0
+U1072,LinkedIn,,5,
+U1072,Google Ads,,5,
+U1072,Facebook,,5,
+U1072,Google Ads,,5,
+U1072,TikTok,,5,
+U1073,Google Ads,,3,
+U1073,Facebook,,3,
+U1073,TikTok,,3,
+U1074,TikTok,,5,
+U1074,Facebook,,5,
+U1074,TikTok,,5,
+U1074,Facebook,,5,
+U1074,Google Ads,,5,
+U1075,Google Ads,852.0,4,213.0
+U1075,TikTok,852.0,4,213.0
+U1075,Facebook,852.0,4,213.0
+U1075,Google Ads,852.0,4,213.0
+U1076,TikTok,197.0,4,49.25
+U1076,Google Ads,197.0,4,49.25
+U1076,Facebook,197.0,4,49.25
+U1076,Facebook,197.0,4,49.25
+U1077,Google Ads,,2,
+U1077,Google Ads,,2,
+U1078,Facebook,,4,
+U1078,Facebook,,4,
+U1078,TikTok,,4,
+U1078,Google Ads,,4,
+U1079,LinkedIn,,3,
+U1079,Facebook,,3,
+U1079,TikTok,,3,
+U1080,LinkedIn,,4,
+U1080,Facebook,,4,
+U1080,LinkedIn,,4,
+U1080,LinkedIn,,4,
+U1081,Google Ads,,4,
+U1081,LinkedIn,,4,
+U1081,Google Ads,,4,
+U1081,LinkedIn,,4,
+U1082,Facebook,,3,
+U1082,LinkedIn,,3,
+U1082,LinkedIn,,3,
+U1083,Google Ads,,4,
+U1083,Google Ads,,4,
+U1083,Google Ads,,4,
+U1083,TikTok,,4,
+U1084,Facebook,839.0,6,139.83333333333334
+U1084,Facebook,839.0,6,139.83333333333334
+U1084,Facebook,839.0,6,139.83333333333334
+U1084,Google Ads,839.0,6,139.83333333333334
+U1084,Google Ads,839.0,6,139.83333333333334
+U1084,Google Ads,839.0,6,139.83333333333334
+U1085,TikTok,541.0,5,108.2
+U1085,LinkedIn,541.0,5,108.2
+U1085,Google Ads,541.0,5,108.2
+U1085,LinkedIn,541.0,5,108.2
+U1085,Facebook,541.0,5,108.2
+U1086,LinkedIn,,4,
+U1086,TikTok,,4,
+U1086,LinkedIn,,4,
+U1086,Facebook,,4,
+U1087,TikTok,557.0,2,278.5
+U1087,Google Ads,557.0,2,278.5
+U1088,LinkedIn,524.0,5,104.8
+U1088,TikTok,524.0,5,104.8
+U1088,LinkedIn,524.0,5,104.8
+U1088,Google Ads,524.0,5,104.8
+U1088,Google Ads,524.0,5,104.8
+U1089,LinkedIn,,2,
+U1089,Google Ads,,2,
+U1090,TikTok,960.0,4,240.0
+U1090,TikTok,960.0,4,240.0
+U1090,Facebook,960.0,4,240.0
+U1090,LinkedIn,960.0,4,240.0
+U1091,TikTok,,3,
+U1091,TikTok,,3,
+U1091,TikTok,,3,
+U1092,Facebook,,4,
+U1092,TikTok,,4,
+U1092,LinkedIn,,4,
+U1092,Facebook,,4,
+U1093,TikTok,192.0,6,32.0
+U1093,TikTok,192.0,6,32.0
+U1093,Google Ads,192.0,6,32.0
+U1093,Facebook,192.0,6,32.0
+U1093,Facebook,192.0,6,32.0
+U1093,Google Ads,192.0,6,32.0
+U1094,Google Ads,,3,
+U1094,Google Ads,,3,
+U1094,LinkedIn,,3,
+U1095,Facebook,,5,
+U1095,Google Ads,,5,
+U1095,LinkedIn,,5,
+U1095,LinkedIn,,5,
+U1095,Google Ads,,5,
+U1096,LinkedIn,,3,
+U1096,Facebook,,3,
+U1096,Facebook,,3,
+U1097,Google Ads,569.0,2,284.5
+U1097,Google Ads,569.0,2,284.5
+U1098,Facebook,296.0,5,59.2
+U1098,Google Ads,296.0,5,59.2
+U1098,LinkedIn,296.0,5,59.2
+U1098,Google Ads,296.0,5,59.2
+U1098,Google Ads,296.0,5,59.2
+U1099,TikTok,,3,
+U1099,Google Ads,,3,
+U1099,Facebook,,3,
+U1100,LinkedIn,,5,
+U1100,LinkedIn,,5,
+U1100,LinkedIn,,5,
+U1100,Facebook,,5,
+U1100,LinkedIn,,5,
+U1101,Facebook,206.0,5,41.2
+U1101,Facebook,206.0,5,41.2
+U1101,Google Ads,206.0,5,41.2
+U1101,TikTok,206.0,5,41.2
+U1101,Facebook,206.0,5,41.2
+U1102,TikTok,248.0,5,49.6
+U1102,LinkedIn,248.0,5,49.6
+U1102,LinkedIn,248.0,5,49.6
+U1102,LinkedIn,248.0,5,49.6
+U1102,Google Ads,248.0,5,49.6
+U1103,TikTok,,2,
+U1103,LinkedIn,,2,
+U1104,Google Ads,,2,
+U1104,Facebook,,2,
+U1105,Facebook,,3,
+U1105,LinkedIn,,3,
+U1105,LinkedIn,,3,
+U1106,LinkedIn,,3,
+U1106,TikTok,,3,
+U1106,LinkedIn,,3,
+U1107,Google Ads,829.0,4,207.25
+U1107,TikTok,829.0,4,207.25
+U1107,TikTok,829.0,4,207.25
+U1107,TikTok,829.0,4,207.25
+U1108,Google Ads,,3,
+U1108,LinkedIn,,3,
+U1108,LinkedIn,,3,
+U1109,TikTok,994.0,5,198.8
+U1109,Google Ads,994.0,5,198.8
+U1109,TikTok,994.0,5,198.8
+U1109,Google Ads,994.0,5,198.8
+U1109,TikTok,994.0,5,198.8
+U1110,Facebook,,4,
+U1110,TikTok,,4,
+U1110,TikTok,,4,
+U1110,Google Ads,,4,
+U1111,Google Ads,400.0,5,80.0
+U1111,TikTok,400.0,5,80.0
+U1111,Google Ads,400.0,5,80.0
+U1111,Google Ads,400.0,5,80.0
+U1111,LinkedIn,400.0,5,80.0
+U1112,TikTok,,4,
+U1112,Facebook,,4,
+U1112,Google Ads,,4,
+U1112,Facebook,,4,
+U1113,Facebook,461.0,5,92.2
+U1113,TikTok,461.0,5,92.2
+U1113,Google Ads,461.0,5,92.2
+U1113,LinkedIn,461.0,5,92.2
+U1113,TikTok,461.0,5,92.2
+U1114,Google Ads,,2,
+U1114,Facebook,,2,
+U1115,LinkedIn,695.0,5,139.0
+U1115,Google Ads,695.0,5,139.0
+U1115,Google Ads,695.0,5,139.0
+U1115,TikTok,695.0,5,139.0
+U1115,LinkedIn,695.0,5,139.0
+U1116,Facebook,,5,
+U1116,Facebook,,5,
+U1116,LinkedIn,,5,
+U1116,Facebook,,5,
+U1116,Google Ads,,5,
+U1117,LinkedIn,,4,
+U1117,Facebook,,4,
+U1117,Google Ads,,4,
+U1117,Google Ads,,4,
+U1118,TikTok,379.0,2,189.5
+U1118,LinkedIn,379.0,2,189.5
+U1119,LinkedIn,,3,
+U1119,Google Ads,,3,
+U1119,LinkedIn,,3,
+U1120,Google Ads,322.0,2,161.0
+U1120,Google Ads,322.0,2,161.0
+U1121,Facebook,,3,
+U1121,Google Ads,,3,
+U1121,LinkedIn,,3,
+U1122,Facebook,469.0,3,156.33333333333334
+U1122,TikTok,469.0,3,156.33333333333334
+U1122,TikTok,469.0,3,156.33333333333334
+U1123,Google Ads,814.0,3,271.3333333333333
+U1123,Google Ads,814.0,3,271.3333333333333
+U1123,TikTok,814.0,3,271.3333333333333
+U1124,TikTok,,3,
+U1124,Facebook,,3,
+U1124,TikTok,,3,
+U1125,TikTok,980.0,4,245.0
+U1125,Google Ads,980.0,4,245.0
+U1125,LinkedIn,980.0,4,245.0
+U1125,LinkedIn,980.0,4,245.0
+U1126,Google Ads,,2,
+U1126,LinkedIn,,2,
+U1127,Google Ads,,4,
+U1127,TikTok,,4,
+U1127,TikTok,,4,
+U1127,LinkedIn,,4,
+U1128,Facebook,,3,
+U1128,Facebook,,3,
+U1128,Facebook,,3,
+U1129,LinkedIn,,5,
+U1129,Google Ads,,5,
+U1129,TikTok,,5,
+U1129,Facebook,,5,
+U1129,LinkedIn,,5,
+U1130,TikTok,751.0,4,187.75
+U1130,Facebook,751.0,4,187.75
+U1130,TikTok,751.0,4,187.75
+U1130,TikTok,751.0,4,187.75
+U1131,Google Ads,,5,
+U1131,Google Ads,,5,
+U1131,TikTok,,5,
+U1131,LinkedIn,,5,
+U1131,Facebook,,5,
+U1132,Facebook,351.0,2,175.5
+U1132,LinkedIn,351.0,2,175.5
+U1133,Google Ads,,5,
+U1133,Google Ads,,5,
+U1133,LinkedIn,,5,
+U1133,LinkedIn,,5,
+U1133,TikTok,,5,
+U1134,TikTok,,3,
+U1134,Google Ads,,3,
+U1134,TikTok,,3,
+U1135,TikTok,,3,
+U1135,LinkedIn,,3,
+U1135,Google Ads,,3,
+U1136,Facebook,,3,
+U1136,Facebook,,3,
+U1136,LinkedIn,,3,
+U1137,TikTok,,5,
+U1137,TikTok,,5,
+U1137,Google Ads,,5,
+U1137,LinkedIn,,5,
+U1137,TikTok,,5,
+U1138,LinkedIn,946.0,6,157.66666666666666
+U1138,Facebook,946.0,6,157.66666666666666
+U1138,LinkedIn,946.0,6,157.66666666666666
+U1138,Facebook,946.0,6,157.66666666666666
+U1138,LinkedIn,946.0,6,157.66666666666666
+U1138,LinkedIn,946.0,6,157.66666666666666
+U1139,TikTok,751.0,3,250.33333333333334
+U1139,Facebook,751.0,3,250.33333333333334
+U1139,TikTok,751.0,3,250.33333333333334
+U1140,Google Ads,,4,
+U1140,LinkedIn,,4,
+U1140,LinkedIn,,4,
+U1140,Google Ads,,4,
+U1141,LinkedIn,,5,
+U1141,Facebook,,5,
+U1141,Facebook,,5,
+U1141,Facebook,,5,
+U1141,Facebook,,5,
+U1142,Facebook,,4,
+U1142,Google Ads,,4,
+U1142,Google Ads,,4,
+U1142,TikTok,,4,
+U1143,Google Ads,,3,
+U1143,Google Ads,,3,
+U1143,TikTok,,3,
+U1144,Google Ads,,5,
+U1144,Facebook,,5,
+U1144,LinkedIn,,5,
+U1144,Facebook,,5,
+U1144,Google Ads,,5,
+U1145,LinkedIn,,2,
+U1145,LinkedIn,,2,
+U1146,LinkedIn,,3,
+U1146,TikTok,,3,
+U1146,TikTok,,3,
+U1147,TikTok,,3,
+U1147,Google Ads,,3,
+U1147,LinkedIn,,3,
+U1148,Google Ads,,4,
+U1148,Google Ads,,4,
+U1148,LinkedIn,,4,
+U1148,Google Ads,,4,
+U1149,LinkedIn,701.0,5,140.2
+U1149,Google Ads,701.0,5,140.2
+U1149,Facebook,701.0,5,140.2
+U1149,Google Ads,701.0,5,140.2
+U1149,Facebook,701.0,5,140.2
+U1150,Facebook,,2,
+U1150,LinkedIn,,2,
+U1151,Google Ads,947.0,4,236.75
+U1151,TikTok,947.0,4,236.75
+U1151,Facebook,947.0,4,236.75
+U1151,TikTok,947.0,4,236.75
+U1152,LinkedIn,,5,
+U1152,Facebook,,5,
+U1152,Facebook,,5,
+U1152,TikTok,,5,
+U1152,TikTok,,5,
+U1153,Google Ads,,5,
+U1153,Google Ads,,5,
+U1153,Facebook,,5,
+U1153,Google Ads,,5,
+U1153,LinkedIn,,5,
+U1154,TikTok,,5,
+U1154,Facebook,,5,
+U1154,LinkedIn,,5,
+U1154,TikTok,,5,
+U1154,LinkedIn,,5,
+U1155,LinkedIn,892.0,5,178.4
+U1155,Facebook,892.0,5,178.4
+U1155,Google Ads,892.0,5,178.4
+U1155,LinkedIn,892.0,5,178.4
+U1155,Facebook,892.0,5,178.4
+U1156,LinkedIn,,3,
+U1156,Google Ads,,3,
+U1156,Facebook,,3,
+U1157,TikTok,,5,
+U1157,LinkedIn,,5,
+U1157,Facebook,,5,
+U1157,Google Ads,,5,
+U1157,TikTok,,5,
+U1158,TikTok,,2,
+U1158,LinkedIn,,2,
+U1159,Facebook,,4,
+U1159,TikTok,,4,
+U1159,Google Ads,,4,
+U1159,LinkedIn,,4,
+U1160,Facebook,,2,
+U1160,TikTok,,2,
+U1161,TikTok,,2,
+U1161,LinkedIn,,2,
+U1162,Google Ads,266.0,5,53.2
+U1162,Google Ads,266.0,5,53.2
+U1162,Facebook,266.0,5,53.2
+U1162,Google Ads,266.0,5,53.2
+U1162,Facebook,266.0,5,53.2
+U1163,LinkedIn,,4,
+U1163,Facebook,,4,
+U1163,TikTok,,4,
+U1163,Facebook,,4,
+U1164,TikTok,,2,
+U1164,Facebook,,2,
+U1165,LinkedIn,,4,
+U1165,TikTok,,4,
+U1165,Facebook,,4,
+U1165,LinkedIn,,4,
+U1166,TikTok,,4,
+U1166,TikTok,,4,
+U1166,Google Ads,,4,
+U1166,Google Ads,,4,
+U1167,Facebook,421.0,4,105.25
+U1167,TikTok,421.0,4,105.25
+U1167,Google Ads,421.0,4,105.25
+U1167,LinkedIn,421.0,4,105.25
+U1168,Google Ads,,2,
+U1168,LinkedIn,,2,
+U1169,Google Ads,,2,
+U1169,TikTok,,2,
+U1170,Google Ads,905.0,2,452.5
+U1170,TikTok,905.0,2,452.5
+U1171,TikTok,,4,
+U1171,LinkedIn,,4,
+U1171,TikTok,,4,
+U1171,Google Ads,,4,
+U1172,TikTok,,2,
+U1172,TikTok,,2,
+U1173,Facebook,,2,
+U1173,LinkedIn,,2,
+U1174,Facebook,409.0,5,81.8
+U1174,Google Ads,409.0,5,81.8
+U1174,TikTok,409.0,5,81.8
+U1174,Google Ads,409.0,5,81.8
+U1174,LinkedIn,409.0,5,81.8
+U1175,Google Ads,699.0,5,139.8
+U1175,Facebook,699.0,5,139.8
+U1175,TikTok,699.0,5,139.8
+U1175,Google Ads,699.0,5,139.8
+U1175,LinkedIn,699.0,5,139.8
+U1176,Google Ads,,2,
+U1176,LinkedIn,,2,
+U1177,Google Ads,,2,
+U1177,LinkedIn,,2,
+U1178,TikTok,,2,
+U1178,TikTok,,2,
+U1179,Google Ads,,2,
+U1179,LinkedIn,,2,
+U1180,LinkedIn,867.0,5,173.4
+U1180,Google Ads,867.0,5,173.4
+U1180,TikTok,867.0,5,173.4
+U1180,TikTok,867.0,5,173.4
+U1180,Facebook,867.0,5,173.4
+U1181,Facebook,,5,
+U1181,Facebook,,5,
+U1181,LinkedIn,,5,
+U1181,Facebook,,5,
+U1181,LinkedIn,,5,
+U1182,Google Ads,,2,
+U1182,Facebook,,2,
+U1183,Google Ads,,2,
+U1183,Facebook,,2,
+U1184,TikTok,,5,
+U1184,Facebook,,5,
+U1184,Facebook,,5,
+U1184,TikTok,,5,
+U1184,TikTok,,5,
+U1185,TikTok,,4,
+U1185,TikTok,,4,
+U1185,Facebook,,4,
+U1185,TikTok,,4,
+U1186,TikTok,,2,
+U1186,Facebook,,2,
+U1187,Google Ads,,4,
+U1187,TikTok,,4,
+U1187,TikTok,,4,
+U1187,Google Ads,,4,
+U1188,LinkedIn,,5,
+U1188,TikTok,,5,
+U1188,Facebook,,5,
+U1188,Google Ads,,5,
+U1188,TikTok,,5,
+U1189,Facebook,429.0,3,143.0
+U1189,Google Ads,429.0,3,143.0
+U1189,Google Ads,429.0,3,143.0
+U1190,Google Ads,,5,
+U1190,Google Ads,,5,
+U1190,LinkedIn,,5,
+U1190,TikTok,,5,
+U1190,Google Ads,,5,
+U1191,LinkedIn,,2,
+U1191,Google Ads,,2,
+U1192,LinkedIn,,4,
+U1192,LinkedIn,,4,
+U1192,TikTok,,4,
+U1192,Google Ads,,4,
+U1193,TikTok,,4,
+U1193,TikTok,,4,
+U1193,TikTok,,4,
+U1193,Facebook,,4,
+U1194,LinkedIn,,2,
+U1194,TikTok,,2,
+U1195,Google Ads,,5,
+U1195,TikTok,,5,
+U1195,LinkedIn,,5,
+U1195,LinkedIn,,5,
+U1195,LinkedIn,,5,
+U1196,Google Ads,,5,
+U1196,LinkedIn,,5,
+U1196,TikTok,,5,
+U1196,TikTok,,5,
+U1196,Google Ads,,5,
+U1197,LinkedIn,,5,
+U1197,LinkedIn,,5,
+U1197,Facebook,,5,
+U1197,Facebook,,5,
+U1197,LinkedIn,,5,
+U1198,Facebook,,3,
+U1198,TikTok,,3,
+U1198,Google Ads,,3,
+U1199,Facebook,81.0,3,27.0
+U1199,LinkedIn,81.0,3,27.0
+U1199,Google Ads,81.0,3,27.0
+U1200,Google Ads,,5,
+U1200,Google Ads,,5,
+U1200,TikTok,,5,
+U1200,Facebook,,5,
+U1200,LinkedIn,,5,
+U1201,Facebook,,5,
+U1201,Facebook,,5,
+U1201,TikTok,,5,
+U1201,LinkedIn,,5,
+U1201,TikTok,,5,
+U1202,TikTok,,5,
+U1202,LinkedIn,,5,
+U1202,LinkedIn,,5,
+U1202,Google Ads,,5,
+U1202,Facebook,,5,
+U1203,Facebook,,2,
+U1203,TikTok,,2,
+U1204,Facebook,630.0,5,126.0
+U1204,Facebook,630.0,5,126.0
+U1204,TikTok,630.0,5,126.0
+U1204,Google Ads,630.0,5,126.0
+U1204,TikTok,630.0,5,126.0
+U1205,Google Ads,,3,
+U1205,Google Ads,,3,
+U1205,TikTok,,3,
+U1206,TikTok,,4,
+U1206,Google Ads,,4,
+U1206,LinkedIn,,4,
+U1206,TikTok,,4,
+U1207,Google Ads,,4,
+U1207,TikTok,,4,
+U1207,LinkedIn,,4,
+U1207,TikTok,,4,
+U1208,LinkedIn,866.0,3,288.6666666666667
+U1208,Google Ads,866.0,3,288.6666666666667
+U1208,Facebook,866.0,3,288.6666666666667
+U1209,Facebook,,5,
+U1209,LinkedIn,,5,
+U1209,LinkedIn,,5,
+U1209,TikTok,,5,
+U1209,Google Ads,,5,
+U1210,TikTok,,3,
+U1210,Google Ads,,3,
+U1210,Google Ads,,3,
+U1211,TikTok,,3,
+U1211,LinkedIn,,3,
+U1211,Google Ads,,3,
+U1212,TikTok,,5,
+U1212,Google Ads,,5,
+U1212,TikTok,,5,
+U1212,Google Ads,,5,
+U1212,Facebook,,5,
+U1213,LinkedIn,,4,
+U1213,TikTok,,4,
+U1213,Google Ads,,4,
+U1213,Facebook,,4,
+U1214,Google Ads,,5,
+U1214,LinkedIn,,5,
+U1214,LinkedIn,,5,
+U1214,Facebook,,5,
+U1214,Google Ads,,5,
+U1215,TikTok,,2,
+U1215,TikTok,,2,
+U1216,Google Ads,,4,
+U1216,Google Ads,,4,
+U1216,TikTok,,4,
+U1216,Facebook,,4,
+U1217,Facebook,,5,
+U1217,LinkedIn,,5,
+U1217,Facebook,,5,
+U1217,Facebook,,5,
+U1217,TikTok,,5,
+U1218,Facebook,,3,
+U1218,Google Ads,,3,
+U1218,LinkedIn,,3,
+U1219,LinkedIn,,2,
+U1219,Facebook,,2,
+U1220,Google Ads,,3,
+U1220,Google Ads,,3,
+U1220,Facebook,,3,
+U1221,Facebook,,2,
+U1221,Facebook,,2,
+U1222,LinkedIn,,3,
+U1222,Facebook,,3,
+U1222,LinkedIn,,3,
+U1223,Google Ads,,5,
+U1223,TikTok,,5,
+U1223,LinkedIn,,5,
+U1223,Facebook,,5,
+U1223,Google Ads,,5,
+U1224,Facebook,884.0,4,221.0
+U1224,LinkedIn,884.0,4,221.0
+U1224,LinkedIn,884.0,4,221.0
+U1224,Facebook,884.0,4,221.0
+U1225,Facebook,,3,
+U1225,Google Ads,,3,
+U1225,TikTok,,3,
+U1226,Google Ads,,2,
+U1226,TikTok,,2,
+U1227,Google Ads,,4,
+U1227,Facebook,,4,
+U1227,Facebook,,4,
+U1227,Google Ads,,4,
+U1228,Facebook,470.0,3,156.66666666666666
+U1228,Google Ads,470.0,3,156.66666666666666
+U1228,LinkedIn,470.0,3,156.66666666666666
+U1229,Google Ads,,2,
+U1229,LinkedIn,,2,
+U1230,Facebook,459.0,3,153.0
+U1230,LinkedIn,459.0,3,153.0
+U1230,Google Ads,459.0,3,153.0
+U1231,Google Ads,152.0,3,50.666666666666664
+U1231,LinkedIn,152.0,3,50.666666666666664
+U1231,Facebook,152.0,3,50.666666666666664
+U1232,Facebook,246.0,4,61.5
+U1232,TikTok,246.0,4,61.5
+U1232,LinkedIn,246.0,4,61.5
+U1232,TikTok,246.0,4,61.5
+U1233,Facebook,,3,
+U1233,LinkedIn,,3,
+U1233,LinkedIn,,3,
+U1234,TikTok,,4,
+U1234,TikTok,,4,
+U1234,Facebook,,4,
+U1234,TikTok,,4,
+U1235,Facebook,,4,
+U1235,TikTok,,4,
+U1235,Google Ads,,4,
+U1235,Google Ads,,4,
+U1236,TikTok,,3,
+U1236,LinkedIn,,3,
+U1236,Google Ads,,3,
+U1237,Facebook,410.0,3,136.66666666666666
+U1237,LinkedIn,410.0,3,136.66666666666666
+U1237,LinkedIn,410.0,3,136.66666666666666
+U1238,TikTok,291.0,4,72.75
+U1238,TikTok,291.0,4,72.75
+U1238,LinkedIn,291.0,4,72.75
+U1238,LinkedIn,291.0,4,72.75
+U1239,TikTok,,2,
+U1239,Google Ads,,2,
+U1240,Google Ads,,2,
+U1240,LinkedIn,,2,
+U1241,TikTok,,4,
+U1241,Facebook,,4,
+U1241,LinkedIn,,4,
+U1241,LinkedIn,,4,
+U1242,Facebook,,2,
+U1242,Google Ads,,2,
+U1243,TikTok,,4,
+U1243,LinkedIn,,4,
+U1243,TikTok,,4,
+U1243,LinkedIn,,4,
+U1244,Google Ads,,3,
+U1244,TikTok,,3,
+U1244,LinkedIn,,3,
+U1245,LinkedIn,,2,
+U1245,TikTok,,2,
+U1246,TikTok,,3,
+U1246,Facebook,,3,
+U1246,TikTok,,3,
+U1247,Google Ads,,3,
+U1247,TikTok,,3,
+U1247,Facebook,,3,
+U1248,Facebook,,2,
+U1248,Google Ads,,2,
+U1249,Google Ads,,5,
+U1249,Facebook,,5,
+U1249,Facebook,,5,
+U1249,LinkedIn,,5,
+U1249,TikTok,,5,
+U1250,LinkedIn,,4,
+U1250,Google Ads,,4,
+U1250,Google Ads,,4,
+U1250,Google Ads,,4,
+U1251,TikTok,,3,
+U1251,Facebook,,3,
+U1251,LinkedIn,,3,
+U1252,Facebook,725.0,4,181.25
+U1252,Facebook,725.0,4,181.25
+U1252,Facebook,725.0,4,181.25
+U1252,LinkedIn,725.0,4,181.25
+U1253,Facebook,,5,
+U1253,Facebook,,5,
+U1253,Facebook,,5,
+U1253,Google Ads,,5,
+U1253,LinkedIn,,5,
+U1254,TikTok,964.0,3,321.3333333333333
+U1254,Google Ads,964.0,3,321.3333333333333
+U1254,Facebook,964.0,3,321.3333333333333
+U1255,Google Ads,,5,
+U1255,Google Ads,,5,
+U1255,Google Ads,,5,
+U1255,Facebook,,5,
+U1255,TikTok,,5,
+U1256,Facebook,498.0,4,124.5
+U1256,LinkedIn,498.0,4,124.5
+U1256,TikTok,498.0,4,124.5
+U1256,TikTok,498.0,4,124.5
+U1257,Facebook,,2,
+U1257,Google Ads,,2,
+U1258,TikTok,,6,
+U1258,Facebook,,6,
+U1258,TikTok,,6,
+U1258,Facebook,,6,
+U1258,Facebook,,6,
+U1258,TikTok,,6,
+U1259,TikTok,,3,
+U1259,TikTok,,3,
+U1259,Google Ads,,3,
+U1260,Google Ads,,3,
+U1260,Google Ads,,3,
+U1260,Facebook,,3,
+U1261,Facebook,,4,
+U1261,Google Ads,,4,
+U1261,LinkedIn,,4,
+U1261,Facebook,,4,
+U1262,LinkedIn,,4,
+U1262,TikTok,,4,
+U1262,LinkedIn,,4,
+U1262,Facebook,,4,
+U1263,TikTok,,2,
+U1263,LinkedIn,,2,
+U1264,TikTok,,4,
+U1264,TikTok,,4,
+U1264,LinkedIn,,4,
+U1264,LinkedIn,,4,
+U1265,Facebook,,2,
+U1265,TikTok,,2,
+U1266,LinkedIn,854.0,3,284.6666666666667
+U1266,Google Ads,854.0,3,284.6666666666667
+U1266,LinkedIn,854.0,3,284.6666666666667
+U1267,LinkedIn,63.0,2,31.5
+U1267,LinkedIn,63.0,2,31.5
+U1268,TikTok,563.0,4,140.75
+U1268,TikTok,563.0,4,140.75
+U1268,LinkedIn,563.0,4,140.75
+U1268,Google Ads,563.0,4,140.75
+U1269,Facebook,,3,
+U1269,LinkedIn,,3,
+U1269,Facebook,,3,
+U1270,Facebook,,3,
+U1270,TikTok,,3,
+U1270,LinkedIn,,3,
+U1271,Facebook,,4,
+U1271,Google Ads,,4,
+U1271,Google Ads,,4,
+U1271,Google Ads,,4,
+U1272,LinkedIn,,2,
+U1272,LinkedIn,,2,
+U1273,Facebook,320.0,4,80.0
+U1273,Google Ads,320.0,4,80.0
+U1273,LinkedIn,320.0,4,80.0
+U1273,Google Ads,320.0,4,80.0
+U1274,Google Ads,,5,
+U1274,TikTok,,5,
+U1274,Facebook,,5,
+U1274,LinkedIn,,5,
+U1274,Google Ads,,5,
+U1275,Facebook,,4,
+U1275,LinkedIn,,4,
+U1275,TikTok,,4,
+U1275,TikTok,,4,
+U1276,TikTok,,5,
+U1276,Google Ads,,5,
+U1276,Facebook,,5,
+U1276,LinkedIn,,5,
+U1276,LinkedIn,,5,
+U1277,LinkedIn,,5,
+U1277,TikTok,,5,
+U1277,Facebook,,5,
+U1277,Google Ads,,5,
+U1277,Facebook,,5,
+U1278,TikTok,481.0,2,240.5
+U1278,TikTok,481.0,2,240.5
+U1279,TikTok,,3,
+U1279,TikTok,,3,
+U1279,Google Ads,,3,
+U1280,Google Ads,,4,
+U1280,Google Ads,,4,
+U1280,TikTok,,4,
+U1280,Facebook,,4,
+U1281,Google Ads,,2,
+U1281,TikTok,,2,
+U1282,Facebook,855.0,2,427.5
+U1282,Facebook,855.0,2,427.5
+U1283,Google Ads,497.0,3,165.66666666666666
+U1283,Facebook,497.0,3,165.66666666666666
+U1283,TikTok,497.0,3,165.66666666666666
+U1284,TikTok,,2,
+U1284,Google Ads,,2,
+U1285,TikTok,,4,
+U1285,TikTok,,4,
+U1285,TikTok,,4,
+U1285,Google Ads,,4,
+U1286,TikTok,,2,
+U1286,Facebook,,2,
+U1287,LinkedIn,,5,
+U1287,Facebook,,5,
+U1287,Google Ads,,5,
+U1287,LinkedIn,,5,
+U1287,TikTok,,5,
+U1288,LinkedIn,,2,
+U1288,Google Ads,,2,
+U1289,LinkedIn,,2,
+U1289,Google Ads,,2,
+U1290,TikTok,464.0,5,92.8
+U1290,LinkedIn,464.0,5,92.8
+U1290,LinkedIn,464.0,5,92.8
+U1290,Google Ads,464.0,5,92.8
+U1290,TikTok,464.0,5,92.8
+U1291,Facebook,974.0,4,243.5
+U1291,TikTok,974.0,4,243.5
+U1291,TikTok,974.0,4,243.5
+U1291,TikTok,974.0,4,243.5
+U1292,TikTok,,4,
+U1292,Facebook,,4,
+U1292,LinkedIn,,4,
+U1292,Facebook,,4,
+U1293,Google Ads,,5,
+U1293,LinkedIn,,5,
+U1293,Facebook,,5,
+U1293,LinkedIn,,5,
+U1293,TikTok,,5,
+U1294,Google Ads,,3,
+U1294,Facebook,,3,
+U1294,LinkedIn,,3,
+U1295,Facebook,,3,
+U1295,Facebook,,3,
+U1295,Google Ads,,3,
+U1296,TikTok,,3,
+U1296,TikTok,,3,
+U1296,Facebook,,3,
+U1297,Facebook,,5,
+U1297,LinkedIn,,5,
+U1297,Google Ads,,5,
+U1297,LinkedIn,,5,
+U1297,Facebook,,5,
+U1298,LinkedIn,625.0,5,125.0
+U1298,TikTok,625.0,5,125.0
+U1298,TikTok,625.0,5,125.0
+U1298,Facebook,625.0,5,125.0
+U1298,Facebook,625.0,5,125.0
+U1299,Facebook,,5,
+U1299,LinkedIn,,5,
+U1299,Facebook,,5,
+U1299,TikTok,,5,
+U1299,LinkedIn,,5,
+U1300,TikTok,,2,
+U1300,TikTok,,2,
+U1301,Facebook,107.0,5,21.4
+U1301,LinkedIn,107.0,5,21.4
+U1301,LinkedIn,107.0,5,21.4
+U1301,LinkedIn,107.0,5,21.4
+U1301,Facebook,107.0,5,21.4
+U1302,LinkedIn,,5,
+U1302,Facebook,,5,
+U1302,LinkedIn,,5,
+U1302,Facebook,,5,
+U1302,TikTok,,5,
+U1303,LinkedIn,,5,
+U1303,LinkedIn,,5,
+U1303,TikTok,,5,
+U1303,Facebook,,5,
+U1303,TikTok,,5,
+U1304,LinkedIn,632.0,5,126.4
+U1304,LinkedIn,632.0,5,126.4
+U1304,LinkedIn,632.0,5,126.4
+U1304,Google Ads,632.0,5,126.4
+U1304,Google Ads,632.0,5,126.4
+U1305,Google Ads,,4,
+U1305,Facebook,,4,
+U1305,Google Ads,,4,
+U1305,LinkedIn,,4,
+U1306,TikTok,,3,
+U1306,Facebook,,3,
+U1306,TikTok,,3,
+U1307,Facebook,,2,
+U1307,TikTok,,2,
+U1308,Facebook,,4,
+U1308,LinkedIn,,4,
+U1308,TikTok,,4,
+U1308,TikTok,,4,
+U1309,TikTok,204.0,3,68.0
+U1309,Facebook,204.0,3,68.0
+U1309,Google Ads,204.0,3,68.0
+U1310,Facebook,95.0,2,47.5
+U1310,LinkedIn,95.0,2,47.5
+U1311,LinkedIn,,2,
+U1311,Google Ads,,2,
+U1312,LinkedIn,,3,
+U1312,TikTok,,3,
+U1312,LinkedIn,,3,
+U1313,Facebook,192.0,4,48.0
+U1313,Facebook,192.0,4,48.0
+U1313,LinkedIn,192.0,4,48.0
+U1313,LinkedIn,192.0,4,48.0
+U1314,TikTok,,3,
+U1314,TikTok,,3,
+U1314,Facebook,,3,
+U1315,Facebook,,2,
+U1315,LinkedIn,,2,
+U1316,Google Ads,96.0,3,32.0
+U1316,Google Ads,96.0,3,32.0
+U1316,Google Ads,96.0,3,32.0
+U1317,LinkedIn,,4,
+U1317,TikTok,,4,
+U1317,LinkedIn,,4,
+U1317,TikTok,,4,
+U1318,TikTok,,3,
+U1318,TikTok,,3,
+U1318,Facebook,,3,
+U1319,Google Ads,,5,
+U1319,Google Ads,,5,
+U1319,TikTok,,5,
+U1319,TikTok,,5,
+U1319,TikTok,,5,
+U1320,Google Ads,,4,
+U1320,Facebook,,4,
+U1320,Google Ads,,4,
+U1320,LinkedIn,,4,
+U1321,TikTok,232.0,3,77.33333333333333
+U1321,TikTok,232.0,3,77.33333333333333
+U1321,Facebook,232.0,3,77.33333333333333
+U1322,LinkedIn,337.0,3,112.33333333333333
+U1322,TikTok,337.0,3,112.33333333333333
+U1322,Facebook,337.0,3,112.33333333333333
+U1323,Google Ads,,2,
+U1323,Facebook,,2,
+U1324,TikTok,94.0,2,47.0
+U1324,Facebook,94.0,2,47.0
+U1325,LinkedIn,,4,
+U1325,Facebook,,4,
+U1325,TikTok,,4,
+U1325,TikTok,,4,
+U1326,TikTok,163.0,4,40.75
+U1326,Google Ads,163.0,4,40.75
+U1326,Google Ads,163.0,4,40.75
+U1326,LinkedIn,163.0,4,40.75
+U1327,LinkedIn,,5,
+U1327,TikTok,,5,
+U1327,Google Ads,,5,
+U1327,Google Ads,,5,
+U1327,Facebook,,5,
+U1328,LinkedIn,,2,
+U1328,TikTok,,2,
+U1329,Google Ads,,3,
+U1329,LinkedIn,,3,
+U1329,Google Ads,,3,
+U1330,TikTok,,2,
+U1330,Google Ads,,2,
+U1331,LinkedIn,,2,
+U1331,TikTok,,2,
+U1332,Google Ads,,2,
+U1332,Facebook,,2,
+U1333,Facebook,,2,
+U1333,Facebook,,2,
+U1334,Google Ads,,3,
+U1334,TikTok,,3,
+U1334,LinkedIn,,3,
+U1335,Google Ads,,5,
+U1335,LinkedIn,,5,
+U1335,TikTok,,5,
+U1335,Google Ads,,5,
+U1335,LinkedIn,,5,
+U1336,Google Ads,,3,
+U1336,TikTok,,3,
+U1336,TikTok,,3,
+U1337,TikTok,,2,
+U1337,LinkedIn,,2,
+U1338,LinkedIn,,4,
+U1338,Facebook,,4,
+U1338,LinkedIn,,4,
+U1338,Facebook,,4,
+U1339,TikTok,,2,
+U1339,Google Ads,,2,
+U1340,Google Ads,,5,
+U1340,LinkedIn,,5,
+U1340,Google Ads,,5,
+U1340,TikTok,,5,
+U1340,LinkedIn,,5,
+U1341,Google Ads,,4,
+U1341,Facebook,,4,
+U1341,Google Ads,,4,
+U1341,LinkedIn,,4,
+U1342,TikTok,,4,
+U1342,Google Ads,,4,
+U1342,Facebook,,4,
+U1342,LinkedIn,,4,
+U1343,TikTok,539.0,3,179.66666666666666
+U1343,TikTok,539.0,3,179.66666666666666
+U1343,Facebook,539.0,3,179.66666666666666
+U1344,Google Ads,,3,
+U1344,LinkedIn,,3,
+U1344,Facebook,,3,
+U1345,Facebook,,5,
+U1345,Facebook,,5,
+U1345,LinkedIn,,5,
+U1345,Facebook,,5,
+U1345,LinkedIn,,5,
+U1346,TikTok,,3,
+U1346,Facebook,,3,
+U1346,LinkedIn,,3,
+U1347,LinkedIn,,4,
+U1347,Google Ads,,4,
+U1347,Google Ads,,4,
+U1347,TikTok,,4,
+U1348,TikTok,139.0,5,27.8
+U1348,Facebook,139.0,5,27.8
+U1348,Google Ads,139.0,5,27.8
+U1348,TikTok,139.0,5,27.8
+U1348,Google Ads,139.0,5,27.8
+U1349,TikTok,,4,
+U1349,Facebook,,4,
+U1349,TikTok,,4,
+U1349,Facebook,,4,
+U1350,Google Ads,,4,
+U1350,TikTok,,4,
+U1350,Google Ads,,4,
+U1350,Facebook,,4,
+U1351,TikTok,846.0,5,169.2
+U1351,Google Ads,846.0,5,169.2
+U1351,Facebook,846.0,5,169.2
+U1351,Facebook,846.0,5,169.2
+U1351,LinkedIn,846.0,5,169.2
+U1352,TikTok,525.0,3,175.0
+U1352,Google Ads,525.0,3,175.0
+U1352,Facebook,525.0,3,175.0
+U1353,Facebook,330.0,5,66.0
+U1353,TikTok,330.0,5,66.0
+U1353,Google Ads,330.0,5,66.0
+U1353,Facebook,330.0,5,66.0
+U1353,LinkedIn,330.0,5,66.0
+U1354,Facebook,,4,
+U1354,TikTok,,4,
+U1354,TikTok,,4,
+U1354,Google Ads,,4,
+U1355,Facebook,235.0,4,58.75
+U1355,Facebook,235.0,4,58.75
+U1355,Google Ads,235.0,4,58.75
+U1355,Google Ads,235.0,4,58.75
+U1356,Google Ads,,3,
+U1356,LinkedIn,,3,
+U1356,TikTok,,3,
+U1357,Facebook,,2,
+U1357,TikTok,,2,
+U1358,TikTok,,2,
+U1358,LinkedIn,,2,
+U1359,Google Ads,,3,
+U1359,TikTok,,3,
+U1359,Google Ads,,3,
+U1360,Facebook,,3,
+U1360,Facebook,,3,
+U1360,Facebook,,3,
+U1361,Google Ads,848.0,2,424.0
+U1361,LinkedIn,848.0,2,424.0
+U1362,LinkedIn,972.0,4,243.0
+U1362,TikTok,972.0,4,243.0
+U1362,LinkedIn,972.0,4,243.0
+U1362,Google Ads,972.0,4,243.0
+U1363,TikTok,211.0,4,52.75
+U1363,Facebook,211.0,4,52.75
+U1363,LinkedIn,211.0,4,52.75
+U1363,LinkedIn,211.0,4,52.75
+U1364,LinkedIn,,2,
+U1364,Facebook,,2,
+U1365,Google Ads,,5,
+U1365,Google Ads,,5,
+U1365,Google Ads,,5,
+U1365,LinkedIn,,5,
+U1365,LinkedIn,,5,
+U1366,TikTok,,4,
+U1366,Facebook,,4,
+U1366,LinkedIn,,4,
+U1366,Google Ads,,4,
+U1367,TikTok,,5,
+U1367,TikTok,,5,
+U1367,TikTok,,5,
+U1367,TikTok,,5,
+U1367,Facebook,,5,
+U1368,Google Ads,,4,
+U1368,TikTok,,4,
+U1368,LinkedIn,,4,
+U1368,TikTok,,4,
+U1369,LinkedIn,,4,
+U1369,TikTok,,4,
+U1369,LinkedIn,,4,
+U1369,LinkedIn,,4,
+U1370,LinkedIn,,3,
+U1370,Facebook,,3,
+U1370,Google Ads,,3,
+U1371,TikTok,,5,
+U1371,Google Ads,,5,
+U1371,Facebook,,5,
+U1371,Google Ads,,5,
+U1371,TikTok,,5,
+U1372,Google Ads,198.0,2,99.0
+U1372,TikTok,198.0,2,99.0
+U1373,Google Ads,,4,
+U1373,TikTok,,4,
+U1373,Facebook,,4,
+U1373,Google Ads,,4,
+U1374,LinkedIn,,3,
+U1374,Google Ads,,3,
+U1374,Google Ads,,3,
+U1375,TikTok,507.0,5,101.4
+U1375,LinkedIn,507.0,5,101.4
+U1375,Google Ads,507.0,5,101.4
+U1375,LinkedIn,507.0,5,101.4
+U1375,Facebook,507.0,5,101.4
+U1376,Facebook,,2,
+U1376,Facebook,,2,
+U1377,Google Ads,,3,
+U1377,LinkedIn,,3,
+U1377,LinkedIn,,3,
+U1378,TikTok,,3,
+U1378,LinkedIn,,3,
+U1378,Google Ads,,3,
+U1379,LinkedIn,,3,
+U1379,Facebook,,3,
+U1379,Facebook,,3,
+U1380,Google Ads,,4,
+U1380,LinkedIn,,4,
+U1380,Facebook,,4,
+U1380,Google Ads,,4,
+U1381,Facebook,,3,
+U1381,LinkedIn,,3,
+U1381,Google Ads,,3,
+U1382,Google Ads,885.0,4,221.25
+U1382,Google Ads,885.0,4,221.25
+U1382,LinkedIn,885.0,4,221.25
+U1382,Facebook,885.0,4,221.25
+U1383,TikTok,612.0,4,153.0
+U1383,Google Ads,612.0,4,153.0
+U1383,TikTok,612.0,4,153.0
+U1383,LinkedIn,612.0,4,153.0
+U1384,LinkedIn,,4,
+U1384,TikTok,,4,
+U1384,Google Ads,,4,
+U1384,Google Ads,,4,
+U1385,Facebook,,5,
+U1385,LinkedIn,,5,
+U1385,Facebook,,5,
+U1385,Facebook,,5,
+U1385,Google Ads,,5,
+U1386,TikTok,,4,
+U1386,TikTok,,4,
+U1386,LinkedIn,,4,
+U1386,Facebook,,4,
+U1387,Facebook,784.0,4,196.0
+U1387,Google Ads,784.0,4,196.0
+U1387,LinkedIn,784.0,4,196.0
+U1387,Google Ads,784.0,4,196.0
+U1388,Google Ads,,3,
+U1388,Facebook,,3,
+U1388,Facebook,,3,
+U1389,LinkedIn,,5,
+U1389,TikTok,,5,
+U1389,Google Ads,,5,
+U1389,TikTok,,5,
+U1389,TikTok,,5,
+U1390,LinkedIn,872.0,5,174.4
+U1390,Google Ads,872.0,5,174.4
+U1390,LinkedIn,872.0,5,174.4
+U1390,LinkedIn,872.0,5,174.4
+U1390,LinkedIn,872.0,5,174.4
+U1391,LinkedIn,947.0,3,315.6666666666667
+U1391,Google Ads,947.0,3,315.6666666666667
+U1391,TikTok,947.0,3,315.6666666666667
+U1392,LinkedIn,,4,
+U1392,Facebook,,4,
+U1392,TikTok,,4,
+U1392,LinkedIn,,4,
+U1393,Google Ads,61.0,2,30.5
+U1393,TikTok,61.0,2,30.5
+U1394,Facebook,568.0,4,142.0
+U1394,Google Ads,568.0,4,142.0
+U1394,LinkedIn,568.0,4,142.0
+U1394,TikTok,568.0,4,142.0
+U1395,LinkedIn,628.0,3,209.33333333333334
+U1395,LinkedIn,628.0,3,209.33333333333334
+U1395,LinkedIn,628.0,3,209.33333333333334
+U1396,LinkedIn,751.0,2,375.5
+U1396,TikTok,751.0,2,375.5
+U1397,Facebook,,5,
+U1397,LinkedIn,,5,
+U1397,Google Ads,,5,
+U1397,Facebook,,5,
+U1397,Google Ads,,5,
+U1398,TikTok,,2,
+U1398,Facebook,,2,
+U1399,Facebook,533.0,2,266.5
+U1399,TikTok,533.0,2,266.5
+U1400,LinkedIn,692.0,2,346.0
+U1400,Google Ads,692.0,2,346.0
+U1401,Google Ads,,2,
+U1401,Google Ads,,2,
+U1402,TikTok,288.0,4,72.0
+U1402,Google Ads,288.0,4,72.0
+U1402,TikTok,288.0,4,72.0
+U1402,Google Ads,288.0,4,72.0
+U1403,LinkedIn,762.0,3,254.0
+U1403,Facebook,762.0,3,254.0
+U1403,TikTok,762.0,3,254.0
+U1404,TikTok,,4,
+U1404,Facebook,,4,
+U1404,LinkedIn,,4,
+U1404,LinkedIn,,4,
+U1405,Google Ads,,3,
+U1405,Facebook,,3,
+U1405,TikTok,,3,
+U1406,LinkedIn,,2,
+U1406,Google Ads,,2,
+U1407,TikTok,577.0,3,192.33333333333334
+U1407,TikTok,577.0,3,192.33333333333334
+U1407,LinkedIn,577.0,3,192.33333333333334
+U1408,Google Ads,,3,
+U1408,Facebook,,3,
+U1408,Google Ads,,3,
+U1409,LinkedIn,,5,
+U1409,LinkedIn,,5,
+U1409,Google Ads,,5,
+U1409,LinkedIn,,5,
+U1409,TikTok,,5,
+U1410,Google Ads,,5,
+U1410,Google Ads,,5,
+U1410,Google Ads,,5,
+U1410,TikTok,,5,
+U1410,TikTok,,5,
+U1411,LinkedIn,,3,
+U1411,LinkedIn,,3,
+U1411,Google Ads,,3,
+U1412,Facebook,,3,
+U1412,TikTok,,3,
+U1412,LinkedIn,,3,
+U1413,Facebook,829.0,3,276.3333333333333
+U1413,TikTok,829.0,3,276.3333333333333
+U1413,TikTok,829.0,3,276.3333333333333
+U1414,LinkedIn,,5,
+U1414,LinkedIn,,5,
+U1414,TikTok,,5,
+U1414,Facebook,,5,
+U1414,TikTok,,5,
+U1415,LinkedIn,,4,
+U1415,Google Ads,,4,
+U1415,Google Ads,,4,
+U1415,Google Ads,,4,
+U1416,LinkedIn,,4,
+U1416,Google Ads,,4,
+U1416,TikTok,,4,
+U1416,Facebook,,4,
+U1417,LinkedIn,,4,
+U1417,TikTok,,4,
+U1417,LinkedIn,,4,
+U1417,TikTok,,4,
+U1418,Google Ads,,5,
+U1418,Facebook,,5,
+U1418,Facebook,,5,
+U1418,Google Ads,,5,
+U1418,LinkedIn,,5,
+U1419,Facebook,,3,
+U1419,Google Ads,,3,
+U1419,Facebook,,3,
+U1420,Facebook,84.0,2,42.0
+U1420,Facebook,84.0,2,42.0
+U1421,Google Ads,,2,
+U1421,Google Ads,,2,
+U1422,Google Ads,717.0,2,358.5
+U1422,Facebook,717.0,2,358.5
+U1423,LinkedIn,,3,
+U1423,TikTok,,3,
+U1423,LinkedIn,,3,
+U1424,TikTok,72.0,5,14.4
+U1424,Facebook,72.0,5,14.4
+U1424,TikTok,72.0,5,14.4
+U1424,Facebook,72.0,5,14.4
+U1424,LinkedIn,72.0,5,14.4
+U1425,Facebook,,2,
+U1425,Facebook,,2,
+U1426,Facebook,165.0,4,41.25
+U1426,Facebook,165.0,4,41.25
+U1426,Facebook,165.0,4,41.25
+U1426,TikTok,165.0,4,41.25
+U1427,Facebook,,5,
+U1427,Google Ads,,5,
+U1427,LinkedIn,,5,
+U1427,TikTok,,5,
+U1427,Google Ads,,5,
+U1428,Facebook,,2,
+U1428,Facebook,,2,
+U1429,Facebook,,2,
+U1429,LinkedIn,,2,
+U1430,Facebook,,3,
+U1430,Facebook,,3,
+U1430,Google Ads,,3,
+U1431,TikTok,601.0,2,300.5
+U1431,Google Ads,601.0,2,300.5
+U1432,LinkedIn,,2,
+U1432,TikTok,,2,
+U1433,Facebook,550.0,2,275.0
+U1433,Facebook,550.0,2,275.0
+U1434,Facebook,,6,
+U1434,Facebook,,6,
+U1434,LinkedIn,,6,
+U1434,Google Ads,,6,
+U1434,LinkedIn,,6,
+U1434,Facebook,,6,
+U1435,TikTok,,5,
+U1435,Google Ads,,5,
+U1435,Facebook,,5,
+U1435,LinkedIn,,5,
+U1435,Google Ads,,5,
+U1436,Facebook,,5,
+U1436,Google Ads,,5,
+U1436,LinkedIn,,5,
+U1436,Facebook,,5,
+U1436,TikTok,,5,
+U1437,LinkedIn,,4,
+U1437,TikTok,,4,
+U1437,TikTok,,4,
+U1437,Google Ads,,4,
+U1438,LinkedIn,,3,
+U1438,Google Ads,,3,
+U1438,Facebook,,3,
+U1439,Google Ads,,4,
+U1439,Facebook,,4,
+U1439,Facebook,,4,
+U1439,Google Ads,,4,
+U1440,TikTok,,5,
+U1440,Google Ads,,5,
+U1440,Facebook,,5,
+U1440,LinkedIn,,5,
+U1440,Google Ads,,5,
+U1441,Facebook,378.0,2,189.0
+U1441,LinkedIn,378.0,2,189.0
+U1442,LinkedIn,,5,
+U1442,LinkedIn,,5,
+U1442,LinkedIn,,5,
+U1442,Facebook,,5,
+U1442,TikTok,,5,
+U1443,Facebook,,2,
+U1443,TikTok,,2,
+U1444,LinkedIn,,5,
+U1444,TikTok,,5,
+U1444,Facebook,,5,
+U1444,TikTok,,5,
+U1444,Facebook,,5,
+U1445,TikTok,,3,
+U1445,LinkedIn,,3,
+U1445,TikTok,,3,
+U1446,Facebook,236.0,3,78.66666666666667
+U1446,Facebook,236.0,3,78.66666666666667
+U1446,TikTok,236.0,3,78.66666666666667
+U1447,TikTok,,3,
+U1447,Facebook,,3,
+U1447,TikTok,,3,
+U1448,TikTok,,3,
+U1448,Facebook,,3,
+U1448,Google Ads,,3,
+U1449,TikTok,,5,
+U1449,LinkedIn,,5,
+U1449,TikTok,,5,
+U1449,LinkedIn,,5,
+U1449,Google Ads,,5,
+U1450,LinkedIn,,5,
+U1450,LinkedIn,,5,
+U1450,TikTok,,5,
+U1450,Google Ads,,5,
+U1450,LinkedIn,,5,
+U1451,Facebook,,5,
+U1451,Google Ads,,5,
+U1451,Google Ads,,5,
+U1451,Google Ads,,5,
+U1451,TikTok,,5,
+U1452,TikTok,241.0,3,80.33333333333333
+U1452,Facebook,241.0,3,80.33333333333333
+U1452,Google Ads,241.0,3,80.33333333333333
+U1453,TikTok,,4,
+U1453,Google Ads,,4,
+U1453,Google Ads,,4,
+U1453,Facebook,,4,
+U1454,LinkedIn,91.0,4,22.75
+U1454,Google Ads,91.0,4,22.75
+U1454,TikTok,91.0,4,22.75
+U1454,Google Ads,91.0,4,22.75
+U1455,Google Ads,,2,
+U1455,Google Ads,,2,
+U1456,TikTok,639.0,3,213.0
+U1456,Google Ads,639.0,3,213.0
+U1456,Google Ads,639.0,3,213.0
+U1457,Facebook,,4,
+U1457,Facebook,,4,
+U1457,Google Ads,,4,
+U1457,Facebook,,4,
+U1458,TikTok,,3,
+U1458,TikTok,,3,
+U1458,Facebook,,3,
+U1459,Google Ads,302.0,5,60.4
+U1459,TikTok,302.0,5,60.4
+U1459,TikTok,302.0,5,60.4
+U1459,Facebook,302.0,5,60.4
+U1459,TikTok,302.0,5,60.4
+U1460,Facebook,409.0,2,204.5
+U1460,TikTok,409.0,2,204.5
+U1461,LinkedIn,,5,
+U1461,TikTok,,5,
+U1461,Facebook,,5,
+U1461,LinkedIn,,5,
+U1461,Facebook,,5,
+U1462,Google Ads,,3,
+U1462,Facebook,,3,
+U1462,Google Ads,,3,
+U1463,Facebook,,3,
+U1463,Google Ads,,3,
+U1463,LinkedIn,,3,
+U1464,TikTok,,3,
+U1464,Google Ads,,3,
+U1464,Google Ads,,3,
+U1465,Facebook,,2,
+U1465,LinkedIn,,2,
+U1466,TikTok,366.0,4,91.5
+U1466,Google Ads,366.0,4,91.5
+U1466,Google Ads,366.0,4,91.5
+U1466,TikTok,366.0,4,91.5
+U1467,Google Ads,,4,
+U1467,Google Ads,,4,
+U1467,LinkedIn,,4,
+U1467,TikTok,,4,
+U1468,TikTok,827.0,5,165.4
+U1468,Facebook,827.0,5,165.4
+U1468,Facebook,827.0,5,165.4
+U1468,Google Ads,827.0,5,165.4
+U1468,Facebook,827.0,5,165.4
+U1469,Google Ads,,4,
+U1469,Facebook,,4,
+U1469,LinkedIn,,4,
+U1469,Facebook,,4,
+U1470,TikTok,86.0,4,21.5
+U1470,Facebook,86.0,4,21.5
+U1470,Facebook,86.0,4,21.5
+U1470,Facebook,86.0,4,21.5
+U1471,LinkedIn,,2,
+U1471,TikTok,,2,
+U1472,TikTok,,2,
+U1472,LinkedIn,,2,
+U1473,Facebook,,3,
+U1473,Facebook,,3,
+U1473,LinkedIn,,3,
+U1474,LinkedIn,108.0,5,21.6
+U1474,Google Ads,108.0,5,21.6
+U1474,Google Ads,108.0,5,21.6
+U1474,TikTok,108.0,5,21.6
+U1474,LinkedIn,108.0,5,21.6
+U1475,TikTok,,3,
+U1475,TikTok,,3,
+U1475,Facebook,,3,
+U1476,TikTok,165.0,5,33.0
+U1476,Google Ads,165.0,5,33.0
+U1476,Facebook,165.0,5,33.0
+U1476,TikTok,165.0,5,33.0
+U1476,Facebook,165.0,5,33.0
+U1477,LinkedIn,,4,
+U1477,TikTok,,4,
+U1477,Google Ads,,4,
+U1477,Google Ads,,4,
+U1478,Facebook,799.0,3,266.3333333333333
+U1478,Google Ads,799.0,3,266.3333333333333
+U1478,LinkedIn,799.0,3,266.3333333333333
+U1479,Google Ads,,2,
+U1479,TikTok,,2,
+U1480,LinkedIn,,4,
+U1480,Google Ads,,4,
+U1480,Google Ads,,4,
+U1480,Facebook,,4,
+U1481,LinkedIn,,4,
+U1481,TikTok,,4,
+U1481,TikTok,,4,
+U1481,Google Ads,,4,
+U1482,Google Ads,,3,
+U1482,Google Ads,,3,
+U1482,LinkedIn,,3,
+U1483,TikTok,,5,
+U1483,TikTok,,5,
+U1483,Google Ads,,5,
+U1483,Google Ads,,5,
+U1483,LinkedIn,,5,
+U1484,Google Ads,,5,
+U1484,TikTok,,5,
+U1484,LinkedIn,,5,
+U1484,LinkedIn,,5,
+U1484,TikTok,,5,
+U1485,Google Ads,,3,
+U1485,Google Ads,,3,
+U1485,Facebook,,3,
+U1486,Facebook,,3,
+U1486,Google Ads,,3,
+U1486,Google Ads,,3,
+U1487,LinkedIn,,4,
+U1487,Google Ads,,4,
+U1487,Facebook,,4,
+U1487,Facebook,,4,
+U1488,LinkedIn,,3,
+U1488,LinkedIn,,3,
+U1488,TikTok,,3,
+U1489,LinkedIn,,3,
+U1489,Facebook,,3,
+U1489,TikTok,,3,
+U1490,Facebook,650.0,3,216.66666666666666
+U1490,TikTok,650.0,3,216.66666666666666
+U1490,TikTok,650.0,3,216.66666666666666
+U1491,LinkedIn,990.0,3,330.0
+U1491,Facebook,990.0,3,330.0
+U1491,LinkedIn,990.0,3,330.0
+U1492,Facebook,,2,
+U1492,Facebook,,2,
+U1493,TikTok,418.0,5,83.6
+U1493,LinkedIn,418.0,5,83.6
+U1493,LinkedIn,418.0,5,83.6
+U1493,Facebook,418.0,5,83.6
+U1493,Facebook,418.0,5,83.6
+U1494,Google Ads,,3,
+U1494,Facebook,,3,
+U1494,Google Ads,,3,
+U1495,TikTok,,5,
+U1495,Google Ads,,5,
+U1495,TikTok,,5,
+U1495,Google Ads,,5,
+U1495,TikTok,,5,
+U1496,Google Ads,399.0,4,99.75
+U1496,LinkedIn,399.0,4,99.75
+U1496,Google Ads,399.0,4,99.75
+U1496,Google Ads,399.0,4,99.75
+U1497,Google Ads,,5,
+U1497,TikTok,,5,
+U1497,Facebook,,5,
+U1497,TikTok,,5,
+U1497,TikTok,,5,
+U1498,Google Ads,,2,
+U1498,Google Ads,,2,
+U1499,LinkedIn,,5,
+U1499,Facebook,,5,
+U1499,Facebook,,5,
+U1499,LinkedIn,,5,
+U1499,LinkedIn,,5,
+U1500,Google Ads,,3,
+U1500,Google Ads,,3,
+U1500,LinkedIn,,3,
+U1501,TikTok,,3,
+U1501,Google Ads,,3,
+U1501,Facebook,,3,
+U1502,Facebook,483.0,3,161.0
+U1502,LinkedIn,483.0,3,161.0
+U1502,Facebook,483.0,3,161.0
+U1503,LinkedIn,,2,
+U1503,Google Ads,,2,
+U1504,Google Ads,,2,
+U1504,Facebook,,2,
+U1505,LinkedIn,,2,
+U1505,LinkedIn,,2,
+U1506,Google Ads,808.0,2,404.0
+U1506,LinkedIn,808.0,2,404.0
+U1507,Google Ads,815.0,5,163.0
+U1507,Google Ads,815.0,5,163.0
+U1507,Facebook,815.0,5,163.0
+U1507,LinkedIn,815.0,5,163.0
+U1507,LinkedIn,815.0,5,163.0
+U1508,Google Ads,300.0,6,50.0
+U1508,LinkedIn,300.0,6,50.0
+U1508,Facebook,300.0,6,50.0
+U1508,Google Ads,300.0,6,50.0
+U1508,Google Ads,300.0,6,50.0
+U1508,Google Ads,300.0,6,50.0
+U1509,LinkedIn,933.0,5,186.6
+U1509,LinkedIn,933.0,5,186.6
+U1509,Google Ads,933.0,5,186.6
+U1509,TikTok,933.0,5,186.6
+U1509,Facebook,933.0,5,186.6
+U1510,LinkedIn,,5,
+U1510,TikTok,,5,
+U1510,Facebook,,5,
+U1510,Facebook,,5,
+U1510,Google Ads,,5,
+U1511,TikTok,,2,
+U1511,LinkedIn,,2,
+U1512,TikTok,,5,
+U1512,Google Ads,,5,
+U1512,Facebook,,5,
+U1512,TikTok,,5,
+U1512,Facebook,,5,
+U1513,Facebook,469.0,5,93.8
+U1513,Facebook,469.0,5,93.8
+U1513,Google Ads,469.0,5,93.8
+U1513,Facebook,469.0,5,93.8
+U1513,TikTok,469.0,5,93.8
+U1514,Facebook,,2,
+U1514,LinkedIn,,2,
+U1515,Google Ads,,2,
+U1515,Google Ads,,2,
+U1516,Facebook,866.0,3,288.6666666666667
+U1516,Facebook,866.0,3,288.6666666666667
+U1516,TikTok,866.0,3,288.6666666666667
+U1517,Google Ads,481.0,2,240.5
+U1517,LinkedIn,481.0,2,240.5
+U1518,TikTok,,4,
+U1518,TikTok,,4,
+U1518,TikTok,,4,
+U1518,TikTok,,4,
+U1519,Google Ads,,2,
+U1519,LinkedIn,,2,
+U1520,Facebook,,3,
+U1520,LinkedIn,,3,
+U1520,TikTok,,3,
+U1521,LinkedIn,,2,
+U1521,LinkedIn,,2,
+U1522,TikTok,,3,
+U1522,TikTok,,3,
+U1522,Facebook,,3,
+U1523,LinkedIn,,5,
+U1523,Facebook,,5,
+U1523,Google Ads,,5,
+U1523,Google Ads,,5,
+U1523,Facebook,,5,
+U1524,LinkedIn,,4,
+U1524,Google Ads,,4,
+U1524,LinkedIn,,4,
+U1524,Google Ads,,4,
+U1525,LinkedIn,,3,
+U1525,LinkedIn,,3,
+U1525,TikTok,,3,
+U1526,TikTok,,4,
+U1526,LinkedIn,,4,
+U1526,Google Ads,,4,
+U1526,LinkedIn,,4,
+U1527,Google Ads,,3,
+U1527,Google Ads,,3,
+U1527,Google Ads,,3,
+U1528,Google Ads,,2,
+U1528,Google Ads,,2,
+U1529,LinkedIn,,3,
+U1529,TikTok,,3,
+U1529,Facebook,,3,
+U1530,Facebook,,5,
+U1530,Google Ads,,5,
+U1530,TikTok,,5,
+U1530,Facebook,,5,
+U1530,Google Ads,,5,
+U1531,LinkedIn,,5,
+U1531,Facebook,,5,
+U1531,Facebook,,5,
+U1531,LinkedIn,,5,
+U1531,LinkedIn,,5,
+U1532,TikTok,,3,
+U1532,LinkedIn,,3,
+U1532,Google Ads,,3,
+U1533,TikTok,,5,
+U1533,Facebook,,5,
+U1533,Facebook,,5,
+U1533,LinkedIn,,5,
+U1533,TikTok,,5,
+U1534,Google Ads,166.0,5,33.2
+U1534,Facebook,166.0,5,33.2
+U1534,TikTok,166.0,5,33.2
+U1534,Facebook,166.0,5,33.2
+U1534,LinkedIn,166.0,5,33.2
+U1535,Facebook,166.0,3,55.333333333333336
+U1535,TikTok,166.0,3,55.333333333333336
+U1535,LinkedIn,166.0,3,55.333333333333336
+U1536,TikTok,,4,
+U1536,Facebook,,4,
+U1536,Google Ads,,4,
+U1536,LinkedIn,,4,
+U1537,LinkedIn,,5,
+U1537,TikTok,,5,
+U1537,Google Ads,,5,
+U1537,Facebook,,5,
+U1537,LinkedIn,,5,
+U1538,Facebook,,3,
+U1538,Facebook,,3,
+U1538,Google Ads,,3,
+U1539,LinkedIn,,3,
+U1539,Facebook,,3,
+U1539,Facebook,,3,
+U1540,LinkedIn,,4,
+U1540,LinkedIn,,4,
+U1540,Google Ads,,4,
+U1540,LinkedIn,,4,
+U1541,Google Ads,,5,
+U1541,Facebook,,5,
+U1541,Facebook,,5,
+U1541,TikTok,,5,
+U1541,Facebook,,5,
+U1542,Google Ads,,4,
+U1542,LinkedIn,,4,
+U1542,Facebook,,4,
+U1542,Google Ads,,4,
+U1543,LinkedIn,,3,
+U1543,LinkedIn,,3,
+U1543,Facebook,,3,
+U1544,LinkedIn,,5,
+U1544,Facebook,,5,
+U1544,Facebook,,5,
+U1544,TikTok,,5,
+U1544,Facebook,,5,
+U1545,Google Ads,,2,
+U1545,TikTok,,2,
+U1546,Facebook,,2,
+U1546,TikTok,,2,
+U1547,Google Ads,,3,
+U1547,LinkedIn,,3,
+U1547,LinkedIn,,3,
+U1548,LinkedIn,,3,
+U1548,LinkedIn,,3,
+U1548,TikTok,,3,
+U1549,Facebook,,3,
+U1549,Google Ads,,3,
+U1549,Facebook,,3,
+U1550,Google Ads,,2,
+U1550,LinkedIn,,2,
+U1551,TikTok,,2,
+U1551,Facebook,,2,
+U1552,TikTok,,3,
+U1552,Google Ads,,3,
+U1552,Facebook,,3,
+U1553,Google Ads,,2,
+U1553,TikTok,,2,
+U1554,Google Ads,,5,
+U1554,LinkedIn,,5,
+U1554,Google Ads,,5,
+U1554,Facebook,,5,
+U1554,Facebook,,5,
+U1555,LinkedIn,,3,
+U1555,Google Ads,,3,
+U1555,Google Ads,,3,
+U1556,LinkedIn,984.0,4,246.0
+U1556,LinkedIn,984.0,4,246.0
+U1556,LinkedIn,984.0,4,246.0
+U1556,Google Ads,984.0,4,246.0
+U1557,LinkedIn,258.0,5,51.6
+U1557,Google Ads,258.0,5,51.6
+U1557,Google Ads,258.0,5,51.6
+U1557,Google Ads,258.0,5,51.6
+U1557,LinkedIn,258.0,5,51.6
+U1558,TikTok,,5,
+U1558,TikTok,,5,
+U1558,Google Ads,,5,
+U1558,Google Ads,,5,
+U1558,LinkedIn,,5,
+U1559,Facebook,,2,
+U1559,Google Ads,,2,
+U1560,Google Ads,,2,
+U1560,Facebook,,2,
+U1561,Facebook,,4,
+U1561,TikTok,,4,
+U1561,Google Ads,,4,
+U1561,LinkedIn,,4,
+U1562,TikTok,,2,
+U1562,Facebook,,2,
+U1563,LinkedIn,,4,
+U1563,LinkedIn,,4,
+U1563,LinkedIn,,4,
+U1563,LinkedIn,,4,
+U1564,TikTok,,4,
+U1564,TikTok,,4,
+U1564,LinkedIn,,4,
+U1564,LinkedIn,,4,
+U1565,Google Ads,,4,
+U1565,Facebook,,4,
+U1565,LinkedIn,,4,
+U1565,TikTok,,4,
+U1566,LinkedIn,357.0,5,71.4
+U1566,Facebook,357.0,5,71.4
+U1566,Facebook,357.0,5,71.4
+U1566,Facebook,357.0,5,71.4
+U1566,LinkedIn,357.0,5,71.4
+U1567,Google Ads,,3,
+U1567,Google Ads,,3,
+U1567,Facebook,,3,
+U1568,Facebook,,5,
+U1568,TikTok,,5,
+U1568,TikTok,,5,
+U1568,Facebook,,5,
+U1568,LinkedIn,,5,
+U1569,Facebook,,5,
+U1569,LinkedIn,,5,
+U1569,Google Ads,,5,
+U1569,LinkedIn,,5,
+U1569,LinkedIn,,5,
+U1570,TikTok,,3,
+U1570,LinkedIn,,3,
+U1570,TikTok,,3,
+U1571,TikTok,,2,
+U1571,Google Ads,,2,
+U1572,LinkedIn,,5,
+U1572,LinkedIn,,5,
+U1572,Facebook,,5,
+U1572,Google Ads,,5,
+U1572,Facebook,,5,
+U1573,Google Ads,,3,
+U1573,Facebook,,3,
+U1573,TikTok,,3,
+U1574,LinkedIn,,4,
+U1574,Facebook,,4,
+U1574,TikTok,,4,
+U1574,TikTok,,4,
+U1575,LinkedIn,,3,
+U1575,LinkedIn,,3,
+U1575,TikTok,,3,
+U1576,Google Ads,,5,
+U1576,Facebook,,5,
+U1576,LinkedIn,,5,
+U1576,Facebook,,5,
+U1576,Google Ads,,5,
+U1577,Facebook,,2,
+U1577,Facebook,,2,
+U1578,TikTok,,5,
+U1578,TikTok,,5,
+U1578,Google Ads,,5,
+U1578,Facebook,,5,
+U1578,LinkedIn,,5,
+U1579,LinkedIn,,5,
+U1579,Facebook,,5,
+U1579,LinkedIn,,5,
+U1579,LinkedIn,,5,
+U1579,Facebook,,5,
+U1580,Facebook,,5,
+U1580,Google Ads,,5,
+U1580,Facebook,,5,
+U1580,Google Ads,,5,
+U1580,Google Ads,,5,
+U1581,Google Ads,256.0,2,128.0
+U1581,Facebook,256.0,2,128.0
+U1582,Facebook,,4,
+U1582,LinkedIn,,4,
+U1582,LinkedIn,,4,
+U1582,LinkedIn,,4,
+U1583,Google Ads,,5,
+U1583,TikTok,,5,
+U1583,TikTok,,5,
+U1583,Facebook,,5,
+U1583,Facebook,,5,
+U1584,TikTok,,5,
+U1584,TikTok,,5,
+U1584,Google Ads,,5,
+U1584,TikTok,,5,
+U1584,Google Ads,,5,
+U1585,LinkedIn,,5,
+U1585,LinkedIn,,5,
+U1585,TikTok,,5,
+U1585,TikTok,,5,
+U1585,LinkedIn,,5,
+U1586,Google Ads,,2,
+U1586,Google Ads,,2,
+U1587,LinkedIn,,4,
+U1587,Facebook,,4,
+U1587,Facebook,,4,
+U1587,LinkedIn,,4,
+U1588,TikTok,,3,
+U1588,TikTok,,3,
+U1588,Facebook,,3,
+U1589,TikTok,,3,
+U1589,TikTok,,3,
+U1589,Facebook,,3,
+U1590,LinkedIn,,5,
+U1590,TikTok,,5,
+U1590,LinkedIn,,5,
+U1590,Facebook,,5,
+U1590,LinkedIn,,5,
+U1591,Google Ads,,3,
+U1591,TikTok,,3,
+U1591,LinkedIn,,3,
+U1592,Google Ads,,2,
+U1592,LinkedIn,,2,
+U1593,Facebook,,2,
+U1593,LinkedIn,,2,
+U1594,Facebook,,3,
+U1594,Facebook,,3,
+U1594,Google Ads,,3,
+U1595,Facebook,,5,
+U1595,Facebook,,5,
+U1595,TikTok,,5,
+U1595,Facebook,,5,
+U1595,Google Ads,,5,
+U1596,TikTok,,4,
+U1596,Facebook,,4,
+U1596,Google Ads,,4,
+U1596,Google Ads,,4,
+U1597,LinkedIn,,5,
+U1597,LinkedIn,,5,
+U1597,Facebook,,5,
+U1597,TikTok,,5,
+U1597,Google Ads,,5,
+U1598,Google Ads,,4,
+U1598,TikTok,,4,
+U1598,Facebook,,4,
+U1598,Google Ads,,4,
+U1599,LinkedIn,277.0,2,138.5
+U1599,TikTok,277.0,2,138.5
+U1600,TikTok,,2,
+U1600,LinkedIn,,2,
+U1601,Facebook,,2,
+U1601,LinkedIn,,2,
+U1602,LinkedIn,257.0,3,85.66666666666667
+U1602,TikTok,257.0,3,85.66666666666667
+U1602,Facebook,257.0,3,85.66666666666667
+U1603,Google Ads,340.0,4,85.0
+U1603,Facebook,340.0,4,85.0
+U1603,Facebook,340.0,4,85.0
+U1603,Google Ads,340.0,4,85.0
+U1604,Google Ads,859.0,3,286.3333333333333
+U1604,LinkedIn,859.0,3,286.3333333333333
+U1604,TikTok,859.0,3,286.3333333333333
+U1605,TikTok,369.0,2,184.5
+U1605,Facebook,369.0,2,184.5
+U1606,Google Ads,,3,
+U1606,Google Ads,,3,
+U1606,Google Ads,,3,
+U1607,LinkedIn,,2,
+U1607,TikTok,,2,
+U1608,TikTok,697.0,5,139.4
+U1608,TikTok,697.0,5,139.4
+U1608,Google Ads,697.0,5,139.4
+U1608,Facebook,697.0,5,139.4
+U1608,LinkedIn,697.0,5,139.4
+U1609,TikTok,,4,
+U1609,LinkedIn,,4,
+U1609,TikTok,,4,
+U1609,LinkedIn,,4,
+U1610,LinkedIn,,2,
+U1610,Google Ads,,2,
+U1611,TikTok,,4,
+U1611,LinkedIn,,4,
+U1611,Google Ads,,4,
+U1611,Facebook,,4,
+U1612,LinkedIn,,3,
+U1612,Facebook,,3,
+U1612,Facebook,,3,
+U1613,Facebook,883.0,4,220.75
+U1613,TikTok,883.0,4,220.75
+U1613,Facebook,883.0,4,220.75
+U1613,Google Ads,883.0,4,220.75
+U1614,TikTok,,2,
+U1614,LinkedIn,,2,
+U1615,LinkedIn,366.0,5,73.2
+U1615,TikTok,366.0,5,73.2
+U1615,Google Ads,366.0,5,73.2
+U1615,Facebook,366.0,5,73.2
+U1615,Facebook,366.0,5,73.2
+U1616,Facebook,672.0,4,168.0
+U1616,TikTok,672.0,4,168.0
+U1616,Google Ads,672.0,4,168.0
+U1616,TikTok,672.0,4,168.0
+U1617,Facebook,,3,
+U1617,Google Ads,,3,
+U1617,Google Ads,,3,
+U1618,Facebook,,5,
+U1618,LinkedIn,,5,
+U1618,Facebook,,5,
+U1618,Facebook,,5,
+U1618,LinkedIn,,5,
+U1619,TikTok,,5,
+U1619,TikTok,,5,
+U1619,Facebook,,5,
+U1619,LinkedIn,,5,
+U1619,Facebook,,5,
+U1620,LinkedIn,,5,
+U1620,Google Ads,,5,
+U1620,Facebook,,5,
+U1620,LinkedIn,,5,
+U1620,TikTok,,5,
+U1621,Google Ads,,2,
+U1621,Facebook,,2,
+U1622,Google Ads,,5,
+U1622,TikTok,,5,
+U1622,Facebook,,5,
+U1622,Google Ads,,5,
+U1622,Facebook,,5,
+U1623,Google Ads,,2,
+U1623,LinkedIn,,2,
+U1624,TikTok,,2,
+U1624,TikTok,,2,
+U1625,LinkedIn,,2,
+U1625,Google Ads,,2,
+U1626,LinkedIn,,3,
+U1626,Facebook,,3,
+U1626,TikTok,,3,
+U1627,TikTok,615.0,2,307.5
+U1627,TikTok,615.0,2,307.5
+U1628,LinkedIn,,2,
+U1628,Facebook,,2,
+U1629,TikTok,,4,
+U1629,Google Ads,,4,
+U1629,Facebook,,4,
+U1629,TikTok,,4,
+U1630,LinkedIn,,2,
+U1630,LinkedIn,,2,
+U1631,Facebook,,2,
+U1631,LinkedIn,,2,
+U1632,Facebook,,4,
+U1632,Facebook,,4,
+U1632,Google Ads,,4,
+U1632,Facebook,,4,
+U1633,LinkedIn,243.0,3,81.0
+U1633,TikTok,243.0,3,81.0
+U1633,Facebook,243.0,3,81.0
+U1634,Facebook,,3,
+U1634,TikTok,,3,
+U1634,LinkedIn,,3,
+U1635,Google Ads,227.0,3,75.66666666666667
+U1635,LinkedIn,227.0,3,75.66666666666667
+U1635,TikTok,227.0,3,75.66666666666667
+U1636,Facebook,,3,
+U1636,LinkedIn,,3,
+U1636,Google Ads,,3,
+U1637,LinkedIn,,4,
+U1637,LinkedIn,,4,
+U1637,Facebook,,4,
+U1637,LinkedIn,,4,
+U1638,LinkedIn,,2,
+U1638,TikTok,,2,
+U1639,Facebook,,2,
+U1639,Google Ads,,2,
+U1640,LinkedIn,,3,
+U1640,TikTok,,3,
+U1640,TikTok,,3,
+U1641,LinkedIn,,2,
+U1641,LinkedIn,,2,
+U1642,TikTok,,2,
+U1642,Google Ads,,2,
+U1643,LinkedIn,846.0,2,423.0
+U1643,Facebook,846.0,2,423.0
+U1644,LinkedIn,877.0,5,175.4
+U1644,LinkedIn,877.0,5,175.4
+U1644,Google Ads,877.0,5,175.4
+U1644,Facebook,877.0,5,175.4
+U1644,LinkedIn,877.0,5,175.4
+U1645,TikTok,,4,
+U1645,TikTok,,4,
+U1645,Facebook,,4,
+U1645,Google Ads,,4,
+U1646,Google Ads,,4,
+U1646,TikTok,,4,
+U1646,Facebook,,4,
+U1646,LinkedIn,,4,
+U1647,Facebook,,2,
+U1647,Facebook,,2,
+U1648,TikTok,,6,
+U1648,Facebook,,6,
+U1648,LinkedIn,,6,
+U1648,Google Ads,,6,
+U1648,Google Ads,,6,
+U1648,Facebook,,6,
+U1649,LinkedIn,,2,
+U1649,LinkedIn,,2,
+U1650,LinkedIn,,4,
+U1650,Facebook,,4,
+U1650,LinkedIn,,4,
+U1650,Facebook,,4,
+U1651,LinkedIn,,5,
+U1651,Google Ads,,5,
+U1651,Facebook,,5,
+U1651,Google Ads,,5,
+U1651,LinkedIn,,5,
+U1652,Facebook,898.0,5,179.6
+U1652,LinkedIn,898.0,5,179.6
+U1652,Facebook,898.0,5,179.6
+U1652,Google Ads,898.0,5,179.6
+U1652,LinkedIn,898.0,5,179.6
+U1653,LinkedIn,270.0,2,135.0
+U1653,LinkedIn,270.0,2,135.0
+U1654,Facebook,341.0,5,68.2
+U1654,LinkedIn,341.0,5,68.2
+U1654,LinkedIn,341.0,5,68.2
+U1654,Google Ads,341.0,5,68.2
+U1654,LinkedIn,341.0,5,68.2
+U1655,Google Ads,,5,
+U1655,LinkedIn,,5,
+U1655,TikTok,,5,
+U1655,LinkedIn,,5,
+U1655,Google Ads,,5,
+U1656,Facebook,169.0,3,56.333333333333336
+U1656,Facebook,169.0,3,56.333333333333336
+U1656,TikTok,169.0,3,56.333333333333336
+U1657,Google Ads,,4,
+U1657,Google Ads,,4,
+U1657,Facebook,,4,
+U1657,Google Ads,,4,
+U1658,Facebook,,4,
+U1658,Facebook,,4,
+U1658,Facebook,,4,
+U1658,TikTok,,4,
+U1659,LinkedIn,787.0,4,196.75
+U1659,Facebook,787.0,4,196.75
+U1659,Google Ads,787.0,4,196.75
+U1659,Facebook,787.0,4,196.75
+U1660,TikTok,,2,
+U1660,Facebook,,2,
+U1661,Google Ads,,5,
+U1661,TikTok,,5,
+U1661,LinkedIn,,5,
+U1661,Google Ads,,5,
+U1661,TikTok,,5,
+U1662,LinkedIn,,5,
+U1662,Facebook,,5,
+U1662,Facebook,,5,
+U1662,TikTok,,5,
+U1662,TikTok,,5,
+U1663,TikTok,,3,
+U1663,Facebook,,3,
+U1663,LinkedIn,,3,
+U1664,TikTok,,5,
+U1664,Google Ads,,5,
+U1664,TikTok,,5,
+U1664,LinkedIn,,5,
+U1664,Google Ads,,5,
+U1665,Facebook,75.0,3,25.0
+U1665,LinkedIn,75.0,3,25.0
+U1665,Facebook,75.0,3,25.0
+U1666,Google Ads,,4,
+U1666,Google Ads,,4,
+U1666,Facebook,,4,
+U1666,Facebook,,4,
+U1667,LinkedIn,467.0,5,93.4
+U1667,TikTok,467.0,5,93.4
+U1667,LinkedIn,467.0,5,93.4
+U1667,TikTok,467.0,5,93.4
+U1667,Facebook,467.0,5,93.4
+U1668,Google Ads,,2,
+U1668,LinkedIn,,2,
+U1669,LinkedIn,,5,
+U1669,LinkedIn,,5,
+U1669,Google Ads,,5,
+U1669,TikTok,,5,
+U1669,TikTok,,5,
+U1670,Facebook,,2,
+U1670,Facebook,,2,
+U1671,LinkedIn,785.0,3,261.6666666666667
+U1671,Facebook,785.0,3,261.6666666666667
+U1671,LinkedIn,785.0,3,261.6666666666667
+U1672,LinkedIn,,2,
+U1672,LinkedIn,,2,
+U1673,Facebook,915.0,4,228.75
+U1673,Facebook,915.0,4,228.75
+U1673,LinkedIn,915.0,4,228.75
+U1673,LinkedIn,915.0,4,228.75
+U1674,Google Ads,,3,
+U1674,Google Ads,,3,
+U1674,Google Ads,,3,
+U1675,Google Ads,,5,
+U1675,Facebook,,5,
+U1675,Google Ads,,5,
+U1675,Google Ads,,5,
+U1675,Google Ads,,5,
+U1676,Facebook,,2,
+U1676,LinkedIn,,2,
+U1677,Facebook,127.0,4,31.75
+U1677,LinkedIn,127.0,4,31.75
+U1677,TikTok,127.0,4,31.75
+U1677,LinkedIn,127.0,4,31.75
+U1678,Facebook,,3,
+U1678,TikTok,,3,
+U1678,LinkedIn,,3,
+U1679,Facebook,,3,
+U1679,LinkedIn,,3,
+U1679,Facebook,,3,
+U1680,TikTok,,3,
+U1680,TikTok,,3,
+U1680,Facebook,,3,
+U1681,Facebook,,4,
+U1681,Facebook,,4,
+U1681,LinkedIn,,4,
+U1681,Google Ads,,4,
+U1682,Google Ads,,2,
+U1682,Google Ads,,2,
+U1683,Google Ads,,3,
+U1683,TikTok,,3,
+U1683,TikTok,,3,
+U1684,Facebook,271.0,4,67.75
+U1684,Facebook,271.0,4,67.75
+U1684,LinkedIn,271.0,4,67.75
+U1684,Google Ads,271.0,4,67.75
+U1685,Facebook,301.0,2,150.5
+U1685,LinkedIn,301.0,2,150.5
+U1686,Google Ads,,3,
+U1686,Facebook,,3,
+U1686,LinkedIn,,3,
+U1687,TikTok,,2,
+U1687,TikTok,,2,
+U1688,Facebook,,4,
+U1688,LinkedIn,,4,
+U1688,Facebook,,4,
+U1688,Google Ads,,4,
+U1689,Google Ads,,5,
+U1689,Facebook,,5,
+U1689,TikTok,,5,
+U1689,TikTok,,5,
+U1689,TikTok,,5,
+U1690,Facebook,606.0,5,121.2
+U1690,Google Ads,606.0,5,121.2
+U1690,LinkedIn,606.0,5,121.2
+U1690,LinkedIn,606.0,5,121.2
+U1690,Google Ads,606.0,5,121.2
+U1691,Facebook,,2,
+U1691,Facebook,,2,
+U1692,TikTok,135.0,5,27.0
+U1692,Facebook,135.0,5,27.0
+U1692,Google Ads,135.0,5,27.0
+U1692,LinkedIn,135.0,5,27.0
+U1692,Google Ads,135.0,5,27.0
+U1693,Facebook,,5,
+U1693,LinkedIn,,5,
+U1693,LinkedIn,,5,
+U1693,Facebook,,5,
+U1693,LinkedIn,,5,
+U1694,LinkedIn,,4,
+U1694,TikTok,,4,
+U1694,LinkedIn,,4,
+U1694,TikTok,,4,
+U1695,TikTok,,4,
+U1695,Facebook,,4,
+U1695,LinkedIn,,4,
+U1695,LinkedIn,,4,
+U1696,LinkedIn,614.0,4,153.5
+U1696,Google Ads,614.0,4,153.5
+U1696,Google Ads,614.0,4,153.5
+U1696,Facebook,614.0,4,153.5
+U1697,Google Ads,,4,
+U1697,Facebook,,4,
+U1697,TikTok,,4,
+U1697,LinkedIn,,4,
+U1698,Facebook,101.0,5,20.2
+U1698,Facebook,101.0,5,20.2
+U1698,TikTok,101.0,5,20.2
+U1698,Facebook,101.0,5,20.2
+U1698,LinkedIn,101.0,5,20.2
+U1699,LinkedIn,,2,
+U1699,Facebook,,2,
+U1700,LinkedIn,67.0,2,33.5
+U1700,Facebook,67.0,2,33.5
+U1701,Google Ads,,2,
+U1701,LinkedIn,,2,
+U1702,Facebook,,5,
+U1702,Facebook,,5,
+U1702,Google Ads,,5,
+U1702,TikTok,,5,
+U1702,Facebook,,5,
+U1703,Google Ads,,3,
+U1703,Facebook,,3,
+U1703,TikTok,,3,
+U1704,LinkedIn,,5,
+U1704,Google Ads,,5,
+U1704,Facebook,,5,
+U1704,Google Ads,,5,
+U1704,Google Ads,,5,
+U1705,Facebook,,4,
+U1705,TikTok,,4,
+U1705,TikTok,,4,
+U1705,Google Ads,,4,
+U1706,Google Ads,,5,
+U1706,Facebook,,5,
+U1706,Facebook,,5,
+U1706,Google Ads,,5,
+U1706,Google Ads,,5,
+U1707,TikTok,,5,
+U1707,LinkedIn,,5,
+U1707,TikTok,,5,
+U1707,Facebook,,5,
+U1707,TikTok,,5,
+U1708,TikTok,,5,
+U1708,TikTok,,5,
+U1708,LinkedIn,,5,
+U1708,Google Ads,,5,
+U1708,LinkedIn,,5,
+U1709,TikTok,727.0,2,363.5
+U1709,Google Ads,727.0,2,363.5
+U1710,TikTok,,2,
+U1710,Google Ads,,2,
+U1711,Facebook,,4,
+U1711,Facebook,,4,
+U1711,LinkedIn,,4,
+U1711,TikTok,,4,
+U1712,LinkedIn,186.0,4,46.5
+U1712,Facebook,186.0,4,46.5
+U1712,TikTok,186.0,4,46.5
+U1712,Google Ads,186.0,4,46.5
+U1713,LinkedIn,,2,
+U1713,Facebook,,2,
+U1714,Google Ads,,3,
+U1714,TikTok,,3,
+U1714,Google Ads,,3,
+U1715,LinkedIn,,2,
+U1715,Google Ads,,2,
+U1716,Facebook,,5,
+U1716,TikTok,,5,
+U1716,Facebook,,5,
+U1716,LinkedIn,,5,
+U1716,Google Ads,,5,
+U1717,LinkedIn,,4,
+U1717,LinkedIn,,4,
+U1717,Google Ads,,4,
+U1717,Google Ads,,4,
+U1718,Google Ads,,4,
+U1718,LinkedIn,,4,
+U1718,Facebook,,4,
+U1718,Google Ads,,4,
+U1719,TikTok,998.0,4,249.5
+U1719,LinkedIn,998.0,4,249.5
+U1719,Google Ads,998.0,4,249.5
+U1719,LinkedIn,998.0,4,249.5
+U1720,LinkedIn,,2,
+U1720,TikTok,,2,
+U1721,Google Ads,,2,
+U1721,Facebook,,2,
+U1722,Facebook,,4,
+U1722,LinkedIn,,4,
+U1722,TikTok,,4,
+U1722,TikTok,,4,
+U1723,Facebook,,4,
+U1723,LinkedIn,,4,
+U1723,Google Ads,,4,
+U1723,Google Ads,,4,
+U1724,LinkedIn,509.0,4,127.25
+U1724,TikTok,509.0,4,127.25
+U1724,Facebook,509.0,4,127.25
+U1724,Facebook,509.0,4,127.25
+U1725,TikTok,,3,
+U1725,Facebook,,3,
+U1725,Facebook,,3,
+U1726,Facebook,365.0,5,73.0
+U1726,TikTok,365.0,5,73.0
+U1726,LinkedIn,365.0,5,73.0
+U1726,Facebook,365.0,5,73.0
+U1726,Google Ads,365.0,5,73.0
+U1727,TikTok,,4,
+U1727,Google Ads,,4,
+U1727,TikTok,,4,
+U1727,Google Ads,,4,
+U1728,Facebook,,3,
+U1728,Facebook,,3,
+U1728,Google Ads,,3,
+U1729,Facebook,,2,
+U1729,LinkedIn,,2,
+U1730,Facebook,,4,
+U1730,LinkedIn,,4,
+U1730,TikTok,,4,
+U1730,Google Ads,,4,
+U1731,TikTok,,4,
+U1731,TikTok,,4,
+U1731,Google Ads,,4,
+U1731,Google Ads,,4,
+U1732,LinkedIn,780.0,3,260.0
+U1732,LinkedIn,780.0,3,260.0
+U1732,Facebook,780.0,3,260.0
+U1733,Google Ads,210.0,4,52.5
+U1733,LinkedIn,210.0,4,52.5
+U1733,Facebook,210.0,4,52.5
+U1733,Google Ads,210.0,4,52.5
+U1734,TikTok,,4,
+U1734,TikTok,,4,
+U1734,TikTok,,4,
+U1734,Google Ads,,4,
+U1735,Google Ads,,2,
+U1735,LinkedIn,,2,
+U1736,TikTok,,4,
+U1736,TikTok,,4,
+U1736,TikTok,,4,
+U1736,Google Ads,,4,
+U1737,Facebook,,4,
+U1737,Google Ads,,4,
+U1737,LinkedIn,,4,
+U1737,TikTok,,4,
+U1738,Facebook,,5,
+U1738,TikTok,,5,
+U1738,Google Ads,,5,
+U1738,Facebook,,5,
+U1738,Google Ads,,5,
+U1739,TikTok,,3,
+U1739,Google Ads,,3,
+U1739,LinkedIn,,3,
+U1740,LinkedIn,,3,
+U1740,Facebook,,3,
+U1740,Facebook,,3,
+U1741,Facebook,,5,
+U1741,LinkedIn,,5,
+U1741,Google Ads,,5,
+U1741,Google Ads,,5,
+U1741,LinkedIn,,5,
+U1742,Google Ads,,4,
+U1742,Google Ads,,4,
+U1742,LinkedIn,,4,
+U1742,Google Ads,,4,
+U1743,LinkedIn,541.0,3,180.33333333333334
+U1743,LinkedIn,541.0,3,180.33333333333334
+U1743,LinkedIn,541.0,3,180.33333333333334
+U1744,LinkedIn,,3,
+U1744,LinkedIn,,3,
+U1744,LinkedIn,,3,
+U1745,LinkedIn,,5,
+U1745,Google Ads,,5,
+U1745,Facebook,,5,
+U1745,Google Ads,,5,
+U1745,LinkedIn,,5,
+U1746,Facebook,853.0,3,284.3333333333333
+U1746,LinkedIn,853.0,3,284.3333333333333
+U1746,TikTok,853.0,3,284.3333333333333
+U1747,TikTok,,4,
+U1747,Google Ads,,4,
+U1747,LinkedIn,,4,
+U1747,Facebook,,4,
+U1748,LinkedIn,,4,
+U1748,Google Ads,,4,
+U1748,LinkedIn,,4,
+U1748,Google Ads,,4,
+U1749,Facebook,,5,
+U1749,Google Ads,,5,
+U1749,Google Ads,,5,
+U1749,Facebook,,5,
+U1749,TikTok,,5,
+U1750,Facebook,,2,
+U1750,Google Ads,,2,
+U1751,TikTok,,5,
+U1751,Facebook,,5,
+U1751,Google Ads,,5,
+U1751,TikTok,,5,
+U1751,Facebook,,5,
+U1752,LinkedIn,,2,
+U1752,Google Ads,,2,
+U1753,Google Ads,,3,
+U1753,TikTok,,3,
+U1753,Facebook,,3,
+U1754,Facebook,,2,
+U1754,LinkedIn,,2,
+U1755,LinkedIn,,3,
+U1755,Facebook,,3,
+U1755,Google Ads,,3,
+U1756,Google Ads,,2,
+U1756,Google Ads,,2,
+U1757,Google Ads,,5,
+U1757,TikTok,,5,
+U1757,Google Ads,,5,
+U1757,LinkedIn,,5,
+U1757,Facebook,,5,
+U1758,Google Ads,,3,
+U1758,Facebook,,3,
+U1758,LinkedIn,,3,
+U1759,TikTok,421.0,4,105.25
+U1759,Google Ads,421.0,4,105.25
+U1759,Google Ads,421.0,4,105.25
+U1759,TikTok,421.0,4,105.25
+U1760,TikTok,,2,
+U1760,Facebook,,2,
+U1761,Facebook,,3,
+U1761,Facebook,,3,
+U1761,TikTok,,3,
+U1762,Facebook,59.0,3,19.666666666666668
+U1762,Facebook,59.0,3,19.666666666666668
+U1762,Facebook,59.0,3,19.666666666666668
+U1763,Google Ads,,3,
+U1763,Google Ads,,3,
+U1763,LinkedIn,,3,
+U1764,Google Ads,,4,
+U1764,TikTok,,4,
+U1764,Facebook,,4,
+U1764,TikTok,,4,
+U1765,Google Ads,476.0,2,238.0
+U1765,Facebook,476.0,2,238.0
+U1766,Facebook,,3,
+U1766,LinkedIn,,3,
+U1766,LinkedIn,,3,
+U1767,TikTok,,3,
+U1767,TikTok,,3,
+U1767,Facebook,,3,
+U1768,LinkedIn,,3,
+U1768,Google Ads,,3,
+U1768,LinkedIn,,3,
+U1769,LinkedIn,,4,
+U1769,Facebook,,4,
+U1769,LinkedIn,,4,
+U1769,Google Ads,,4,
+U1770,LinkedIn,513.0,5,102.6
+U1770,LinkedIn,513.0,5,102.6
+U1770,Facebook,513.0,5,102.6
+U1770,LinkedIn,513.0,5,102.6
+U1770,Facebook,513.0,5,102.6
+U1771,Facebook,,3,
+U1771,Facebook,,3,
+U1771,Google Ads,,3,
+U1772,LinkedIn,473.0,5,94.6
+U1772,Google Ads,473.0,5,94.6
+U1772,TikTok,473.0,5,94.6
+U1772,Facebook,473.0,5,94.6
+U1772,TikTok,473.0,5,94.6
+U1773,TikTok,,6,
+U1773,Facebook,,6,
+U1773,Google Ads,,6,
+U1773,Google Ads,,6,
+U1773,LinkedIn,,6,
+U1773,Google Ads,,6,
+U1774,TikTok,,4,
+U1774,Google Ads,,4,
+U1774,TikTok,,4,
+U1774,Facebook,,4,
+U1775,TikTok,,2,
+U1775,Facebook,,2,
+U1776,LinkedIn,,2,
+U1776,TikTok,,2,
+U1777,Google Ads,839.0,3,279.6666666666667
+U1777,Google Ads,839.0,3,279.6666666666667
+U1777,TikTok,839.0,3,279.6666666666667
+U1778,Facebook,381.0,4,95.25
+U1778,LinkedIn,381.0,4,95.25
+U1778,TikTok,381.0,4,95.25
+U1778,Google Ads,381.0,4,95.25
+U1779,Facebook,244.0,4,61.0
+U1779,Facebook,244.0,4,61.0
+U1779,Google Ads,244.0,4,61.0
+U1779,LinkedIn,244.0,4,61.0
+U1780,Google Ads,517.0,3,172.33333333333334
+U1780,Google Ads,517.0,3,172.33333333333334
+U1780,TikTok,517.0,3,172.33333333333334
+U1781,Google Ads,462.0,2,231.0
+U1781,Google Ads,462.0,2,231.0
+U1782,LinkedIn,,2,
+U1782,TikTok,,2,
+U1783,TikTok,,5,
+U1783,LinkedIn,,5,
+U1783,Facebook,,5,
+U1783,Facebook,,5,
+U1783,LinkedIn,,5,
+U1784,LinkedIn,,4,
+U1784,Google Ads,,4,
+U1784,LinkedIn,,4,
+U1784,TikTok,,4,
+U1785,Facebook,,4,
+U1785,Google Ads,,4,
+U1785,TikTok,,4,
+U1785,Facebook,,4,
+U1786,Google Ads,127.0,5,25.4
+U1786,Google Ads,127.0,5,25.4
+U1786,Facebook,127.0,5,25.4
+U1786,TikTok,127.0,5,25.4
+U1786,TikTok,127.0,5,25.4
+U1787,TikTok,,2,
+U1787,Google Ads,,2,
+U1788,TikTok,,2,
+U1788,Facebook,,2,
+U1789,TikTok,,3,
+U1789,Facebook,,3,
+U1789,Facebook,,3,
+U1790,Facebook,,3,
+U1790,LinkedIn,,3,
+U1790,Facebook,,3,
+U1791,Google Ads,,4,
+U1791,TikTok,,4,
+U1791,Google Ads,,4,
+U1791,Facebook,,4,
+U1792,Facebook,,2,
+U1792,TikTok,,2,
+U1793,LinkedIn,,3,
+U1793,LinkedIn,,3,
+U1793,LinkedIn,,3,
+U1794,LinkedIn,,4,
+U1794,LinkedIn,,4,
+U1794,TikTok,,4,
+U1794,TikTok,,4,
+U1795,TikTok,,4,
+U1795,Facebook,,4,
+U1795,TikTok,,4,
+U1795,Google Ads,,4,
+U1796,LinkedIn,,4,
+U1796,TikTok,,4,
+U1796,Facebook,,4,
+U1796,LinkedIn,,4,
+U1797,LinkedIn,,4,
+U1797,TikTok,,4,
+U1797,TikTok,,4,
+U1797,Facebook,,4,
+U1798,LinkedIn,,5,
+U1798,LinkedIn,,5,
+U1798,TikTok,,5,
+U1798,LinkedIn,,5,
+U1798,TikTok,,5,
+U1799,LinkedIn,901.0,3,300.3333333333333
+U1799,Facebook,901.0,3,300.3333333333333
+U1799,LinkedIn,901.0,3,300.3333333333333
+U1800,LinkedIn,286.0,4,71.5
+U1800,TikTok,286.0,4,71.5
+U1800,Google Ads,286.0,4,71.5
+U1800,Facebook,286.0,4,71.5
+U1801,Google Ads,,3,
+U1801,LinkedIn,,3,
+U1801,LinkedIn,,3,
+U1802,TikTok,,2,
+U1802,Facebook,,2,
+U1803,Google Ads,,5,
+U1803,TikTok,,5,
+U1803,Google Ads,,5,
+U1803,LinkedIn,,5,
+U1803,Facebook,,5,
+U1804,Facebook,660.0,4,165.0
+U1804,TikTok,660.0,4,165.0
+U1804,LinkedIn,660.0,4,165.0
+U1804,LinkedIn,660.0,4,165.0
+U1805,Google Ads,908.0,5,181.6
+U1805,TikTok,908.0,5,181.6
+U1805,LinkedIn,908.0,5,181.6
+U1805,LinkedIn,908.0,5,181.6
+U1805,TikTok,908.0,5,181.6
+U1806,Google Ads,,2,
+U1806,Google Ads,,2,
+U1807,TikTok,,4,
+U1807,Google Ads,,4,
+U1807,TikTok,,4,
+U1807,TikTok,,4,
+U1808,TikTok,,3,
+U1808,LinkedIn,,3,
+U1808,TikTok,,3,
+U1809,Google Ads,,2,
+U1809,TikTok,,2,
+U1810,LinkedIn,205.0,5,41.0
+U1810,LinkedIn,205.0,5,41.0
+U1810,TikTok,205.0,5,41.0
+U1810,LinkedIn,205.0,5,41.0
+U1810,Google Ads,205.0,5,41.0
+U1811,Facebook,,5,
+U1811,LinkedIn,,5,
+U1811,LinkedIn,,5,
+U1811,TikTok,,5,
+U1811,LinkedIn,,5,
+U1812,Google Ads,,5,
+U1812,Google Ads,,5,
+U1812,LinkedIn,,5,
+U1812,Facebook,,5,
+U1812,Google Ads,,5,
+U1813,Facebook,,2,
+U1813,LinkedIn,,2,
+U1814,Facebook,,5,
+U1814,Google Ads,,5,
+U1814,LinkedIn,,5,
+U1814,Facebook,,5,
+U1814,Facebook,,5,
+U1815,Google Ads,,4,
+U1815,TikTok,,4,
+U1815,TikTok,,4,
+U1815,Google Ads,,4,
+U1816,Facebook,,5,
+U1816,Google Ads,,5,
+U1816,LinkedIn,,5,
+U1816,LinkedIn,,5,
+U1816,LinkedIn,,5,
+U1817,TikTok,,5,
+U1817,Google Ads,,5,
+U1817,Google Ads,,5,
+U1817,Facebook,,5,
+U1817,Facebook,,5,
+U1818,Google Ads,,3,
+U1818,Facebook,,3,
+U1818,LinkedIn,,3,
+U1819,Facebook,,5,
+U1819,LinkedIn,,5,
+U1819,LinkedIn,,5,
+U1819,LinkedIn,,5,
+U1819,LinkedIn,,5,
+U1820,LinkedIn,,4,
+U1820,LinkedIn,,4,
+U1820,LinkedIn,,4,
+U1820,Facebook,,4,
+U1821,Facebook,,3,
+U1821,Google Ads,,3,
+U1821,Facebook,,3,
+U1822,TikTok,,4,
+U1822,Google Ads,,4,
+U1822,Google Ads,,4,
+U1822,TikTok,,4,
+U1823,Google Ads,,4,
+U1823,TikTok,,4,
+U1823,LinkedIn,,4,
+U1823,TikTok,,4,
+U1824,Google Ads,,5,
+U1824,TikTok,,5,
+U1824,TikTok,,5,
+U1824,Google Ads,,5,
+U1824,TikTok,,5,
+U1825,TikTok,,5,
+U1825,TikTok,,5,
+U1825,TikTok,,5,
+U1825,Google Ads,,5,
+U1825,LinkedIn,,5,
+U1826,LinkedIn,,3,
+U1826,TikTok,,3,
+U1826,LinkedIn,,3,
+U1827,TikTok,740.0,5,148.0
+U1827,LinkedIn,740.0,5,148.0
+U1827,Google Ads,740.0,5,148.0
+U1827,Facebook,740.0,5,148.0
+U1827,Google Ads,740.0,5,148.0
+U1828,Google Ads,438.0,2,219.0
+U1828,Google Ads,438.0,2,219.0
+U1829,Facebook,400.0,4,100.0
+U1829,Google Ads,400.0,4,100.0
+U1829,LinkedIn,400.0,4,100.0
+U1829,TikTok,400.0,4,100.0
+U1830,LinkedIn,,2,
+U1830,Facebook,,2,
+U1831,Google Ads,,5,
+U1831,TikTok,,5,
+U1831,TikTok,,5,
+U1831,Facebook,,5,
+U1831,TikTok,,5,
+U1832,TikTok,80.0,3,26.666666666666668
+U1832,Google Ads,80.0,3,26.666666666666668
+U1832,TikTok,80.0,3,26.666666666666668
+U1833,Facebook,81.0,4,20.25
+U1833,TikTok,81.0,4,20.25
+U1833,LinkedIn,81.0,4,20.25
+U1833,LinkedIn,81.0,4,20.25
+U1834,Facebook,414.0,3,138.0
+U1834,Google Ads,414.0,3,138.0
+U1834,TikTok,414.0,3,138.0
+U1835,Facebook,,4,
+U1835,TikTok,,4,
+U1835,Google Ads,,4,
+U1835,Facebook,,4,
+U1836,Google Ads,,5,
+U1836,TikTok,,5,
+U1836,Google Ads,,5,
+U1836,Google Ads,,5,
+U1836,TikTok,,5,
+U1837,Google Ads,,4,
+U1837,Facebook,,4,
+U1837,Facebook,,4,
+U1837,TikTok,,4,
+U1838,LinkedIn,,3,
+U1838,Facebook,,3,
+U1838,LinkedIn,,3,
+U1839,Facebook,,4,
+U1839,Google Ads,,4,
+U1839,TikTok,,4,
+U1839,Facebook,,4,
+U1840,TikTok,711.0,5,142.2
+U1840,TikTok,711.0,5,142.2
+U1840,Google Ads,711.0,5,142.2
+U1840,Google Ads,711.0,5,142.2
+U1840,Google Ads,711.0,5,142.2
+U1841,LinkedIn,,3,
+U1841,Google Ads,,3,
+U1841,Facebook,,3,
+U1842,TikTok,356.0,3,118.66666666666667
+U1842,TikTok,356.0,3,118.66666666666667
+U1842,Google Ads,356.0,3,118.66666666666667
+U1843,Facebook,,3,
+U1843,LinkedIn,,3,
+U1843,LinkedIn,,3,
+U1844,TikTok,914.0,3,304.6666666666667
+U1844,TikTok,914.0,3,304.6666666666667
+U1844,TikTok,914.0,3,304.6666666666667
+U1845,Google Ads,899.0,4,224.75
+U1845,TikTok,899.0,4,224.75
+U1845,Facebook,899.0,4,224.75
+U1845,Facebook,899.0,4,224.75
+U1846,LinkedIn,,5,
+U1846,Google Ads,,5,
+U1846,Google Ads,,5,
+U1846,Facebook,,5,
+U1846,Facebook,,5,
+U1847,Google Ads,,2,
+U1847,Google Ads,,2,
+U1848,LinkedIn,,3,
+U1848,LinkedIn,,3,
+U1848,LinkedIn,,3,
+U1849,LinkedIn,,5,
+U1849,Google Ads,,5,
+U1849,TikTok,,5,
+U1849,TikTok,,5,
+U1849,Google Ads,,5,
+U1850,TikTok,,5,
+U1850,TikTok,,5,
+U1850,LinkedIn,,5,
+U1850,Google Ads,,5,
+U1850,LinkedIn,,5,
+U1851,Google Ads,,3,
+U1851,Facebook,,3,
+U1851,Facebook,,3,
+U1852,TikTok,,4,
+U1852,LinkedIn,,4,
+U1852,Facebook,,4,
+U1852,LinkedIn,,4,
+U1853,Facebook,,3,
+U1853,Facebook,,3,
+U1853,Google Ads,,3,
+U1854,TikTok,,2,
+U1854,Google Ads,,2,
+U1855,Facebook,,3,
+U1855,LinkedIn,,3,
+U1855,TikTok,,3,
+U1856,TikTok,153.0,2,76.5
+U1856,Facebook,153.0,2,76.5
+U1857,LinkedIn,,2,
+U1857,TikTok,,2,
+U1858,TikTok,,3,
+U1858,LinkedIn,,3,
+U1858,Google Ads,,3,
+U1859,Facebook,812.0,5,162.4
+U1859,LinkedIn,812.0,5,162.4
+U1859,LinkedIn,812.0,5,162.4
+U1859,Facebook,812.0,5,162.4
+U1859,Google Ads,812.0,5,162.4
+U1860,TikTok,,2,
+U1860,TikTok,,2,
+U1861,Google Ads,732.0,5,146.4
+U1861,TikTok,732.0,5,146.4
+U1861,TikTok,732.0,5,146.4
+U1861,Facebook,732.0,5,146.4
+U1861,TikTok,732.0,5,146.4
+U1862,Google Ads,,3,
+U1862,Google Ads,,3,
+U1862,TikTok,,3,
+U1863,TikTok,,6,
+U1863,LinkedIn,,6,
+U1863,Google Ads,,6,
+U1863,TikTok,,6,
+U1863,LinkedIn,,6,
+U1863,LinkedIn,,6,
+U1864,TikTok,,3,
+U1864,TikTok,,3,
+U1864,Facebook,,3,
+U1865,Facebook,693.0,3,231.0
+U1865,TikTok,693.0,3,231.0
+U1865,Facebook,693.0,3,231.0
+U1866,TikTok,,5,
+U1866,Google Ads,,5,
+U1866,Facebook,,5,
+U1866,Google Ads,,5,
+U1866,Google Ads,,5,
+U1867,Facebook,,2,
+U1867,Facebook,,2,
+U1868,Google Ads,,2,
+U1868,Facebook,,2,
+U1869,Google Ads,,4,
+U1869,LinkedIn,,4,
+U1869,Google Ads,,4,
+U1869,Google Ads,,4,
+U1870,Facebook,,3,
+U1870,Google Ads,,3,
+U1870,TikTok,,3,
+U1871,Google Ads,,3,
+U1871,TikTok,,3,
+U1871,Facebook,,3,
+U1872,Facebook,,4,
+U1872,Google Ads,,4,
+U1872,Facebook,,4,
+U1872,Facebook,,4,
+U1873,TikTok,975.0,2,487.5
+U1873,TikTok,975.0,2,487.5
+U1874,Google Ads,753.0,5,150.6
+U1874,TikTok,753.0,5,150.6
+U1874,TikTok,753.0,5,150.6
+U1874,TikTok,753.0,5,150.6
+U1874,TikTok,753.0,5,150.6
+U1875,LinkedIn,616.0,3,205.33333333333334
+U1875,TikTok,616.0,3,205.33333333333334
+U1875,LinkedIn,616.0,3,205.33333333333334
+U1876,Google Ads,,5,
+U1876,LinkedIn,,5,
+U1876,Facebook,,5,
+U1876,Google Ads,,5,
+U1876,TikTok,,5,
+U1877,LinkedIn,,4,
+U1877,TikTok,,4,
+U1877,Google Ads,,4,
+U1877,Google Ads,,4,
+U1878,Google Ads,,4,
+U1878,Google Ads,,4,
+U1878,Facebook,,4,
+U1878,TikTok,,4,
+U1879,TikTok,,5,
+U1879,LinkedIn,,5,
+U1879,Google Ads,,5,
+U1879,Facebook,,5,
+U1879,TikTok,,5,
+U1880,Facebook,,5,
+U1880,Facebook,,5,
+U1880,TikTok,,5,
+U1880,Google Ads,,5,
+U1880,TikTok,,5,
+U1881,Google Ads,,2,
+U1881,Facebook,,2,
+U1882,Google Ads,442.0,5,88.4
+U1882,Google Ads,442.0,5,88.4
+U1882,Google Ads,442.0,5,88.4
+U1882,LinkedIn,442.0,5,88.4
+U1882,TikTok,442.0,5,88.4
+U1883,LinkedIn,,5,
+U1883,Google Ads,,5,
+U1883,TikTok,,5,
+U1883,Facebook,,5,
+U1883,TikTok,,5,
+U1884,Google Ads,,5,
+U1884,Google Ads,,5,
+U1884,LinkedIn,,5,
+U1884,LinkedIn,,5,
+U1884,Facebook,,5,
+U1885,Facebook,,2,
+U1885,TikTok,,2,
+U1886,Facebook,,5,
+U1886,TikTok,,5,
+U1886,LinkedIn,,5,
+U1886,TikTok,,5,
+U1886,Facebook,,5,
+U1887,LinkedIn,,6,
+U1887,TikTok,,6,
+U1887,Facebook,,6,
+U1887,Facebook,,6,
+U1887,LinkedIn,,6,
+U1887,TikTok,,6,
+U1888,LinkedIn,,4,
+U1888,LinkedIn,,4,
+U1888,Google Ads,,4,
+U1888,Google Ads,,4,
+U1889,Facebook,272.0,4,68.0
+U1889,LinkedIn,272.0,4,68.0
+U1889,LinkedIn,272.0,4,68.0
+U1889,Google Ads,272.0,4,68.0
+U1890,LinkedIn,,2,
+U1890,TikTok,,2,
+U1891,TikTok,,4,
+U1891,Facebook,,4,
+U1891,Google Ads,,4,
+U1891,Facebook,,4,
+U1892,Google Ads,,3,
+U1892,TikTok,,3,
+U1892,Facebook,,3,
+U1893,Google Ads,,4,
+U1893,TikTok,,4,
+U1893,Facebook,,4,
+U1893,Facebook,,4,
+U1894,LinkedIn,,3,
+U1894,Facebook,,3,
+U1894,Google Ads,,3,
+U1895,Google Ads,,5,
+U1895,Google Ads,,5,
+U1895,Facebook,,5,
+U1895,TikTok,,5,
+U1895,Google Ads,,5,
+U1896,TikTok,357.0,2,178.5
+U1896,TikTok,357.0,2,178.5
+U1897,Google Ads,,5,
+U1897,Google Ads,,5,
+U1897,TikTok,,5,
+U1897,Google Ads,,5,
+U1897,LinkedIn,,5,
+U1898,Google Ads,726.0,5,145.2
+U1898,TikTok,726.0,5,145.2
+U1898,Facebook,726.0,5,145.2
+U1898,Google Ads,726.0,5,145.2
+U1898,LinkedIn,726.0,5,145.2
+U1899,TikTok,,2,
+U1899,Google Ads,,2,
+U1900,Google Ads,450.0,2,225.0
+U1900,Facebook,450.0,2,225.0
+U1901,Google Ads,,4,
+U1901,Facebook,,4,
+U1901,LinkedIn,,4,
+U1901,Google Ads,,4,
+U1902,Facebook,198.0,5,39.6
+U1902,Facebook,198.0,5,39.6
+U1902,LinkedIn,198.0,5,39.6
+U1902,Google Ads,198.0,5,39.6
+U1902,TikTok,198.0,5,39.6
+U1903,Facebook,,4,
+U1903,LinkedIn,,4,
+U1903,Facebook,,4,
+U1903,Google Ads,,4,
+U1904,Google Ads,,3,
+U1904,Facebook,,3,
+U1904,LinkedIn,,3,
+U1905,LinkedIn,465.0,3,155.0
+U1905,Facebook,465.0,3,155.0
+U1905,Facebook,465.0,3,155.0
+U1906,LinkedIn,,4,
+U1906,TikTok,,4,
+U1906,Facebook,,4,
+U1906,Facebook,,4,
+U1907,LinkedIn,,5,
+U1907,Facebook,,5,
+U1907,TikTok,,5,
+U1907,Google Ads,,5,
+U1907,TikTok,,5,
+U1908,Facebook,690.0,2,345.0
+U1908,Google Ads,690.0,2,345.0
+U1909,LinkedIn,384.0,5,76.8
+U1909,LinkedIn,384.0,5,76.8
+U1909,TikTok,384.0,5,76.8
+U1909,TikTok,384.0,5,76.8
+U1909,TikTok,384.0,5,76.8
+U1910,Google Ads,,2,
+U1910,Google Ads,,2,
+U1911,LinkedIn,,3,
+U1911,LinkedIn,,3,
+U1911,Facebook,,3,
+U1912,TikTok,,5,
+U1912,Facebook,,5,
+U1912,Facebook,,5,
+U1912,Google Ads,,5,
+U1912,LinkedIn,,5,
+U1913,Facebook,,5,
+U1913,Google Ads,,5,
+U1913,Google Ads,,5,
+U1913,LinkedIn,,5,
+U1913,Facebook,,5,
+U1914,TikTok,,4,
+U1914,LinkedIn,,4,
+U1914,Facebook,,4,
+U1914,TikTok,,4,
+U1915,Google Ads,,5,
+U1915,Facebook,,5,
+U1915,LinkedIn,,5,
+U1915,LinkedIn,,5,
+U1915,LinkedIn,,5,
+U1916,Google Ads,,2,
+U1916,LinkedIn,,2,
+U1917,LinkedIn,,5,
+U1917,Google Ads,,5,
+U1917,LinkedIn,,5,
+U1917,LinkedIn,,5,
+U1917,TikTok,,5,
+U1918,LinkedIn,83.0,4,20.75
+U1918,LinkedIn,83.0,4,20.75
+U1918,TikTok,83.0,4,20.75
+U1918,Facebook,83.0,4,20.75
+U1919,Google Ads,,3,
+U1919,Google Ads,,3,
+U1919,TikTok,,3,
+U1920,Google Ads,,5,
+U1920,Google Ads,,5,
+U1920,TikTok,,5,
+U1920,TikTok,,5,
+U1920,LinkedIn,,5,
+U1921,Google Ads,281.0,5,56.2
+U1921,Google Ads,281.0,5,56.2
+U1921,LinkedIn,281.0,5,56.2
+U1921,TikTok,281.0,5,56.2
+U1921,Google Ads,281.0,5,56.2
+U1922,LinkedIn,,3,
+U1922,LinkedIn,,3,
+U1922,TikTok,,3,
+U1923,TikTok,,5,
+U1923,Facebook,,5,
+U1923,Google Ads,,5,
+U1923,LinkedIn,,5,
+U1923,Facebook,,5,
+U1924,Facebook,,4,
+U1924,TikTok,,4,
+U1924,Facebook,,4,
+U1924,TikTok,,4,
+U1925,Google Ads,,2,
+U1925,Facebook,,2,
+U1926,TikTok,,4,
+U1926,TikTok,,4,
+U1926,TikTok,,4,
+U1926,TikTok,,4,
+U1927,Google Ads,,4,
+U1927,TikTok,,4,
+U1927,Google Ads,,4,
+U1927,Facebook,,4,
+U1928,TikTok,,2,
+U1928,LinkedIn,,2,
+U1929,Google Ads,245.0,4,61.25
+U1929,LinkedIn,245.0,4,61.25
+U1929,Facebook,245.0,4,61.25
+U1929,TikTok,245.0,4,61.25
+U1930,Google Ads,,5,
+U1930,Facebook,,5,
+U1930,Google Ads,,5,
+U1930,TikTok,,5,
+U1930,Facebook,,5,
+U1931,Google Ads,,5,
+U1931,LinkedIn,,5,
+U1931,TikTok,,5,
+U1931,Google Ads,,5,
+U1931,Facebook,,5,
+U1932,Google Ads,,2,
+U1932,Google Ads,,2,
+U1933,Facebook,,4,
+U1933,Google Ads,,4,
+U1933,Facebook,,4,
+U1933,Facebook,,4,
+U1934,LinkedIn,,5,
+U1934,Google Ads,,5,
+U1934,Facebook,,5,
+U1934,TikTok,,5,
+U1934,TikTok,,5,
+U1935,Google Ads,884.0,4,221.0
+U1935,LinkedIn,884.0,4,221.0
+U1935,Facebook,884.0,4,221.0
+U1935,Google Ads,884.0,4,221.0
+U1936,LinkedIn,,4,
+U1936,Google Ads,,4,
+U1936,Google Ads,,4,
+U1936,TikTok,,4,
+U1937,TikTok,,5,
+U1937,Facebook,,5,
+U1937,LinkedIn,,5,
+U1937,TikTok,,5,
+U1937,Google Ads,,5,
+U1938,Google Ads,,5,
+U1938,Google Ads,,5,
+U1938,LinkedIn,,5,
+U1938,Facebook,,5,
+U1938,Google Ads,,5,
+U1939,TikTok,,5,
+U1939,TikTok,,5,
+U1939,TikTok,,5,
+U1939,Facebook,,5,
+U1939,LinkedIn,,5,
+U1940,Facebook,,5,
+U1940,Google Ads,,5,
+U1940,Google Ads,,5,
+U1940,Facebook,,5,
+U1940,LinkedIn,,5,
+U1941,LinkedIn,,4,
+U1941,Google Ads,,4,
+U1941,LinkedIn,,4,
+U1941,LinkedIn,,4,
+U1942,LinkedIn,,5,
+U1942,LinkedIn,,5,
+U1942,TikTok,,5,
+U1942,LinkedIn,,5,
+U1942,LinkedIn,,5,
+U1943,TikTok,,2,
+U1943,Google Ads,,2,
+U1944,Facebook,360.0,5,72.0
+U1944,LinkedIn,360.0,5,72.0
+U1944,Facebook,360.0,5,72.0
+U1944,TikTok,360.0,5,72.0
+U1944,TikTok,360.0,5,72.0
+U1945,LinkedIn,310.0,3,103.33333333333333
+U1945,Google Ads,310.0,3,103.33333333333333
+U1945,Facebook,310.0,3,103.33333333333333
+U1946,LinkedIn,975.0,5,195.0
+U1946,TikTok,975.0,5,195.0
+U1946,TikTok,975.0,5,195.0
+U1946,Google Ads,975.0,5,195.0
+U1946,Facebook,975.0,5,195.0
+U1947,Google Ads,,2,
+U1947,TikTok,,2,
+U1948,LinkedIn,,3,
+U1948,Google Ads,,3,
+U1948,TikTok,,3,
+U1949,Google Ads,986.0,5,197.2
+U1949,TikTok,986.0,5,197.2
+U1949,TikTok,986.0,5,197.2
+U1949,Google Ads,986.0,5,197.2
+U1949,Google Ads,986.0,5,197.2
+U1950,TikTok,,2,
+U1950,TikTok,,2,
+U1951,Google Ads,857.0,4,214.25
+U1951,Facebook,857.0,4,214.25
+U1951,Facebook,857.0,4,214.25
+U1951,Facebook,857.0,4,214.25
+U1952,LinkedIn,,5,
+U1952,Facebook,,5,
+U1952,LinkedIn,,5,
+U1952,TikTok,,5,
+U1952,TikTok,,5,
+U1953,Google Ads,716.0,3,238.66666666666666
+U1953,Google Ads,716.0,3,238.66666666666666
+U1953,LinkedIn,716.0,3,238.66666666666666
+U1954,Facebook,,4,
+U1954,TikTok,,4,
+U1954,LinkedIn,,4,
+U1954,Google Ads,,4,
+U1955,Facebook,,4,
+U1955,LinkedIn,,4,
+U1955,TikTok,,4,
+U1955,TikTok,,4,
+U1956,Facebook,,4,
+U1956,Google Ads,,4,
+U1956,TikTok,,4,
+U1956,TikTok,,4,
+U1957,TikTok,,3,
+U1957,Facebook,,3,
+U1957,Google Ads,,3,
+U1958,LinkedIn,,5,
+U1958,TikTok,,5,
+U1958,LinkedIn,,5,
+U1958,TikTok,,5,
+U1958,TikTok,,5,
+U1959,Google Ads,210.0,4,52.5
+U1959,LinkedIn,210.0,4,52.5
+U1959,TikTok,210.0,4,52.5
+U1959,LinkedIn,210.0,4,52.5
+U1960,TikTok,,2,
+U1960,Facebook,,2,
+U1961,Facebook,759.0,2,379.5
+U1961,LinkedIn,759.0,2,379.5
+U1962,LinkedIn,,5,
+U1962,TikTok,,5,
+U1962,TikTok,,5,
+U1962,LinkedIn,,5,
+U1962,Google Ads,,5,
+U1963,TikTok,,2,
+U1963,TikTok,,2,
+U1964,LinkedIn,,4,
+U1964,TikTok,,4,
+U1964,TikTok,,4,
+U1964,TikTok,,4,
+U1965,LinkedIn,,4,
+U1965,TikTok,,4,
+U1965,Google Ads,,4,
+U1965,Google Ads,,4,
+U1966,Google Ads,,4,
+U1966,Facebook,,4,
+U1966,Google Ads,,4,
+U1966,TikTok,,4,
+U1967,LinkedIn,,5,
+U1967,TikTok,,5,
+U1967,Google Ads,,5,
+U1967,LinkedIn,,5,
+U1967,LinkedIn,,5,
+U1968,LinkedIn,,3,
+U1968,Google Ads,,3,
+U1968,Facebook,,3,
+U1969,Google Ads,241.0,3,80.33333333333333
+U1969,LinkedIn,241.0,3,80.33333333333333
+U1969,Google Ads,241.0,3,80.33333333333333
+U1970,Facebook,,2,
+U1970,Google Ads,,2,
+U1971,LinkedIn,,3,
+U1971,Google Ads,,3,
+U1971,TikTok,,3,
+U1972,LinkedIn,,3,
+U1972,TikTok,,3,
+U1972,Google Ads,,3,
+U1973,Facebook,,3,
+U1973,LinkedIn,,3,
+U1973,Facebook,,3,
+U1974,TikTok,,5,
+U1974,LinkedIn,,5,
+U1974,LinkedIn,,5,
+U1974,Facebook,,5,
+U1974,Facebook,,5,
+U1975,Facebook,,5,
+U1975,Google Ads,,5,
+U1975,Facebook,,5,
+U1975,LinkedIn,,5,
+U1975,Google Ads,,5,
+U1976,LinkedIn,,3,
+U1976,TikTok,,3,
+U1976,Facebook,,3,
+U1977,Facebook,167.0,4,41.75
+U1977,LinkedIn,167.0,4,41.75
+U1977,Facebook,167.0,4,41.75
+U1977,Google Ads,167.0,4,41.75
+U1978,Facebook,,3,
+U1978,LinkedIn,,3,
+U1978,TikTok,,3,
+U1979,Facebook,,4,
+U1979,TikTok,,4,
+U1979,TikTok,,4,
+U1979,TikTok,,4,
+U1980,Facebook,,2,
+U1980,LinkedIn,,2,
+U1981,LinkedIn,352.0,4,88.0
+U1981,Google Ads,352.0,4,88.0
+U1981,Facebook,352.0,4,88.0
+U1981,TikTok,352.0,4,88.0
+U1982,TikTok,697.0,4,174.25
+U1982,Google Ads,697.0,4,174.25
+U1982,Google Ads,697.0,4,174.25
+U1982,Google Ads,697.0,4,174.25
+U1983,Google Ads,986.0,4,246.5
+U1983,TikTok,986.0,4,246.5
+U1983,TikTok,986.0,4,246.5
+U1983,LinkedIn,986.0,4,246.5
+U1984,TikTok,,4,
+U1984,TikTok,,4,
+U1984,LinkedIn,,4,
+U1984,Google Ads,,4,
+U1985,Facebook,,5,
+U1985,TikTok,,5,
+U1985,LinkedIn,,5,
+U1985,Facebook,,5,
+U1985,TikTok,,5,
+U1986,TikTok,193.0,2,96.5
+U1986,Google Ads,193.0,2,96.5
+U1987,LinkedIn,,5,
+U1987,LinkedIn,,5,
+U1987,LinkedIn,,5,
+U1987,TikTok,,5,
+U1987,LinkedIn,,5,
+U1988,LinkedIn,,3,
+U1988,Facebook,,3,
+U1988,Google Ads,,3,
+U1989,LinkedIn,,2,
+U1989,Google Ads,,2,
+U1990,LinkedIn,,3,
+U1990,Google Ads,,3,
+U1990,Facebook,,3,
+U1991,LinkedIn,,5,
+U1991,LinkedIn,,5,
+U1991,TikTok,,5,
+U1991,TikTok,,5,
+U1991,LinkedIn,,5,
+U1992,TikTok,,2,
+U1992,Facebook,,2,
+U1993,Google Ads,,2,
+U1993,Facebook,,2,
+U1994,LinkedIn,,5,
+U1994,LinkedIn,,5,
+U1994,LinkedIn,,5,
+U1994,Google Ads,,5,
+U1994,TikTok,,5,
+U1995,Facebook,,4,
+U1995,LinkedIn,,4,
+U1995,Google Ads,,4,
+U1995,TikTok,,4,
+U1996,Facebook,,5,
+U1996,Google Ads,,5,
+U1996,LinkedIn,,5,
+U1996,Google Ads,,5,
+U1996,TikTok,,5,
+U1997,Google Ads,358.0,3,119.33333333333333
+U1997,Google Ads,358.0,3,119.33333333333333
+U1997,LinkedIn,358.0,3,119.33333333333333
+U1998,TikTok,,5,
+U1998,Google Ads,,5,
+U1998,LinkedIn,,5,
+U1998,LinkedIn,,5,
+U1998,LinkedIn,,5,
+U1999,TikTok,,4,
+U1999,Facebook,,4,
+U1999,Facebook,,4,
+U1999,Facebook,,4,
